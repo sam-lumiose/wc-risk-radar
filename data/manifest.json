@@ -4,5 +4,12 @@
     "owner": "Workers Compensation Insurance — Risk Watch",
     "tagline": "Daily risk signals across the NSW & Australian workers compensation insurance landscape."
   },
-  "digests": []
+  "digests": [
+    {
+      "date": "2026-06-28",
+      "file": "data/digests/2026-06-28.json",
+      "posture": "NSW dominates the signal: the scheme's largest reform in over a decade commences 30 June – 1 July, bringing new SIRA guidelines, a frozen premium target, a new employer excess and a far tighter psychological-injury test.",
+      "counts": { "act": 3, "watch": 3, "inform": 0 }
+    }
+  ]
 }

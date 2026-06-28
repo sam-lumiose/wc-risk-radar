@@ -1,0 +1,100 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T11:35:00+10:00",
+  "posture": "NSW dominates the signal: the scheme's largest reform in over a decade commences 30 June – 1 July, bringing new SIRA guidelines, a frozen premium target, a new employer excess and a far tighter psychological-injury test.",
+  "summary": "Two days out from commencement, the live story is NSW. SIRA's revised Workers Compensation Guidelines and 2026 Market Practice & Premium Guidelines (effective 30 June/1 July) and icare's confirmed 2026-27 premium settings dominate. The package tightens psychological-injury compensability and lifts the WPI lump-sum threshold to 25%, freezes the Nominal Insurer target collection rate through to 2028, and introduces a start-of-claim employer excess — against vocal union opposition. Interstate and national news was quiet over the weekend; no verifiable paid-source items were available to capture.",
+  "counts": { "act": 3, "watch": 3, "inform": 0 },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "SIRA's dual guideline overhaul takes effect 30 June / 1 July",
+          "summary": "SIRA has released revised Workers Compensation Guidelines and 2026 Market Practice and Premium Guidelines, the operational backbone of the Amendment Act 2025 and Reform and Modernisation Act 2026 package, with staged effect on 30 June and 1 July 2026.",
+          "so_what": "This is the moment two years of legislated reform becomes operational; insurers, agents and brokers must have claims-handling, premium and market-practice settings compliant from commencement, leaving no lead time for adjustment.",
+          "tags": ["NSW", "Scheme reform", "Guidelines"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/nsw-workers-compensation-enters-new-era-with-dual-guideline-update-580416.aspx",
+          "published": "2026-06-26",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "icare confirms frozen 2026-27 settings and a new start-of-claim employer excess",
+          "summary": "icare has confirmed industry classification rates will not change for 2026-27 and the Nominal Insurer target collection rate is frozen at the 2025-26 level through to 30 June 2028. A new employer excess applies to all claims under policies issued or renewed from 4pm on 30 June 2026, the experience-rating increase cap falls from 30% to 25%, and the minimum premium stays at $240.",
+          "so_what": "Employers and brokers face an immediate cash-flow and process change from 30 June via the new excess, while the multi-year rate freeze caps insurer pricing flexibility even as scheme costs run ahead of premium — sharpening the sustainability tension.",
+          "tags": ["NSW", "Premium freeze", "Excess"],
+          "source": "icare NSW",
+          "url": "https://www.icare.nsw.gov.au/news-and-stories/2026/icare-confirms-2026-27-workers-compensation-premium-settings",
+          "published": "2026-06-26",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Claims & Liability",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Psychological-injury test tightens and WPI lump-sum threshold jumps to 25% from 1 July",
+          "summary": "From 1 July, a primary psychological injury is compensable only where it arises from a defined relevant event with a real and direct connection to employment, and where employment is the main contributing factor. The whole person impairment threshold for lump-sum and common law access rises from 15% to 25% (climbing further to 2029), and weekly payments for most primary psychological claims are limited to 130 weeks.",
+          "so_what": "This materially narrows the gateway to long-term psychological-injury benefits and lump sums; expect disputes over the new event categories and a wave of claims lodged before commencement, with downstream effects on reserves and the Personal Injury Commission's caseload.",
+          "tags": ["NSW", "Psychological injury", "WPI threshold"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/workers-compensation/workers-compensation-reform-faqs",
+          "published": "2026-06-26",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Medical-treatment test lifts from 'reasonably necessary' to 'reasonable and necessary'",
+          "summary": "The reform package raises the threshold for funding medical and related treatment for qualifying injuries from 'reasonably necessary' to the higher 'reasonable and necessary' standard from 1 July 2026.",
+          "so_what": "A higher treatment-approval bar will reshape provider and insurer decision-making on treatment funding and is a likely new front for disputes over declined services and return-to-work support.",
+          "tags": ["NSW", "Medical treatment", "Return to work"],
+          "source": "DLA Piper (law-firm insight)",
+          "url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/new-south-wales-introduces-major-workers-compensation-changes-affecting-claims-premiums-and-return-to-work",
+          "published": "2026-06-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "SafeWork NSW psychosocial codes become enforceable from 1 July, backed by dedicated inspectors",
+          "summary": "From 1 July, codes of practice carry greater legal weight in NSW, elevating the Code of Practice on Managing Psychosocial Hazards as an enforcement reference, while a dedicated cohort of psychosocial inspectors conducts unannounced visits and issues on-the-spot penalties for hazards such as bullying, harassment and poor job design.",
+          "so_what": "Stronger upstream psychosocial enforcement raises employers' WHS exposure and intersects directly with the tighter psychological-injury claims regime, pressuring prevention spend even as claim entitlements narrow.",
+          "tags": ["NSW", "Psychosocial", "Code of Practice"],
+          "source": "SafeWork NSW (via Law Society Journal)",
+          "url": "https://lsj.com.au/articles/psychosocial-safety-at-work-not-a-soft-issue-new-laws-as-safework-nsw-claims-soar/",
+          "published": "2026-06-27",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Unions warn psychological-injury changes will lock out essential workers as reforms commence",
+          "summary": "Unions NSW and member unions, including the Nurses and Midwives Association, continue to oppose the psychological-injury changes, pointing to survey work across more than 10,000 essential workers and parliamentary evidence that only a small fraction of affected employees would qualify for long-term benefits under the new tests.",
+          "so_what": "Sustained political and reputational pressure raises the prospect of post-commencement amendments, advocacy-driven test cases and ongoing scheme-design contest — a source of forward uncertainty for insurers and employers planning under the new rules.",
+          "tags": ["NSW", "Union opposition", "Psychological injury"],
+          "source": "NSCA Foundation",
+          "url": "https://www.nscafoundation.org.au/news-item/19526/nsw-workers-compensation-reforms-controversial-changes-to-psychological-injury-claims",
+          "published": "2026-06-27",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
