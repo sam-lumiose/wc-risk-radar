@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-06-29",
+      "file": "data/digests/2026-06-29.json",
+      "posture": "Commencement eve in NSW: with the reform package taking effect from 4pm 30 June / 1 July, the live signals are a pre-commencement rush of claims lodged under the old rules, mounting evidence that tighter eligibility is pushing mental-injury claims into superannuation, and a step-change in psychosocial enforcement exposure.",
+      "counts": { "act": 1, "watch": 2, "inform": 0 }
+    },
+    {
       "date": "2026-06-28",
       "file": "data/digests/2026-06-28.json",
       "posture": "NSW dominates the signal: the scheme's largest reform in over a decade commences 30 June – 1 July, bringing new SIRA guidelines, a frozen premium target, a new employer excess and a far tighter psychological-injury test.",

@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T05:39:25+10:00",
+  "posture": "Commencement eve in NSW: with the reform package taking effect from 4pm 30 June / 1 July, the live signals are a pre-commencement rush of claims lodged under the old rules, mounting evidence that tighter eligibility is pushing mental-injury claims into superannuation, and a step-change in psychosocial enforcement exposure.",
+  "summary": "The headline reform package (revised SIRA Guidelines, frozen premium target, new employer excess, tighter psychological-injury test) was captured in the 28 June digest and is not repeated. Today's new signals are forward-looking: lawyers and clinicians report a surge of claims being notified before 1 July to preserve access under the existing scheme, which icare and the Personal Injury Commission must absorb; an EML-commissioned University of Melbourne white paper warns the tightening across schemes is redirecting mental-injury claims into superannuation income-protection and TPD; and NSW psychosocial enforcement hardens as codes of practice become an enforceable duty and unions gain standing to bring civil-penalty proceedings. No verifiable fresh AFR or SMH public headline surfaced in the past 24 hours, so no paywalled items are captured today.",
+  "counts": { "act": 1, "watch": 2, "inform": 0 },
+  "sections": [
+    {
+      "category": "Claims & Liability",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Pre-commencement lodgement rush as workers race to claim under the old rules before 1 July",
+          "summary": "Legal and clinical commentary ahead of the 1 July changeover points to a wave of psychological-injury claims being notified before commencement, because claims lodged before 1 July are generally assessed under the existing, more generous thresholds. Commentators note only around 88 workers were assessed at 25% WPI or above in the 2024-25 accident year, implying that well under 6% of those who currently qualify for lump-sum compensation would clear the new 25% threshold.",
+          "so_what": "A concentrated spike of pre-reform notifications lands immediately on insurers and the Personal Injury Commission, inflating near-term claim volumes and reserves and front-loading disputes, while the stark drop-off in those meeting the new threshold sets up contested transition cases over lodgement timing.",
+          "tags": ["NSW", "Psychological injury", "Claims surge"],
+          "source": "Hicksons (law-firm insight)",
+          "url": "https://hicksons.com.au/blog/mind-the-gap-inside-nsws-escalating-impairment-thresholds-for-workplace-psychological-injury-claims/",
+          "published": "2026-06-29",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "White paper warns tighter workers-comp tests are pushing mental-injury claims into superannuation",
+          "summary": "A University of Melbourne modelling exercise commissioned by EML estimates that tightening workers-compensation eligibility across schemes could drive a roughly 19% rise in superannuation income-protection lodgements over the coming decade if the current legislative trajectory continues nationally, as denied or disputed claims migrate to TPD and income-protection products. Several large super funds have flagged TPD premium increases of up to 40% from June 2026, citing rising disability and mental-health claims.",
+          "so_what": "This reframes the NSW reforms as cost-shifting rather than cost-elimination: liabilities narrowed in the workers-comp scheme may re-emerge in superannuation, raising cross-scheme and reputational risk and inviting scrutiny of whether the reform's savings are real or simply relocated.",
+          "tags": ["National", "Superannuation", "Mental injury"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/workers-compensation-reforms-could-drive-claims-into-superannuation--report-577368.aspx",
+          "published": "2026-06-26",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW psychosocial enforcement hardens as codes become an enforceable duty and unions gain civil-penalty standing",
+          "summary": "From 1 July, following an applicable NSW code of practice (or doing something equally effective) becomes a duty in its own right, converting previously advisory psychosocial codes into mandatory compliance benchmarks. Separately, since 1 March 2026 registered organisations including unions can initiate civil-penalty proceedings for WHS breaches, with courts able to direct a share of any penalty to the prosecuting union.",
+          "so_what": "Employers face a higher, enforceable upstream bar on psychosocial risk just as downstream claim entitlements narrow, and union-initiated penalty actions add a new conduct-and-litigation exposure that feeds prevention-spend pressure and potential read-across to insurer risk-selection.",
+          "tags": ["NSW", "Psychosocial", "Enforcement"],
+          "source": "Gadens (law-firm insight)",
+          "url": "https://www.gadens.com/legal-insights/psychosocial-hazards-in-the-workplace-legal-obligations-enforcement-trends-and-what-employers-need-to-know/",
+          "published": "2026-06-29",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
