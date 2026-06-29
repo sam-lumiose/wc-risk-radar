@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T05:40:35+10:00",
+  "posture": "Commencement day: from 4pm today (30 June) and 1 July the NSW reform package moves from legislation to live operation, so the signal shifts from anticipating change to operating under it — new claims, premium and market-practice settings now bind insurers and agents, with late government concessions softening the day-one rules and a $344m prevention package coming online alongside.",
+  "summary": "NSW is the story again as the largest workers-compensation reform in over a decade takes effect today. The core content (revised SIRA Guidelines, frozen premium target, new excess, tighter psychological-injury test, higher WPI threshold) was captured in the 28-29 June digests and is not repeated; today's fresh signals are the go-live itself plus late concessions (removal of the prior-court-finding requirement in bullying/harassment cases and a recast reasonable-management-action defence), and the activation of the $344m Workplace Mental Health package with 51 additional SafeWork inspectors and a new Psychosocial Advisory Service. Interstate, Victoria's confirmed 1.8% WorkCover premium freeze for 2026-27 takes effect 1 July as a sustainability comparator. No verifiable fresh AFR or SMH public headline surfaced in the past 24 hours, so no paywalled items are captured today.",
+  "counts": { "act": 1, "watch": 1, "inform": 1 },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "NSW reform package goes live today, with late concessions shaping the day-one rules",
+          "summary": "From 4pm 30 June and 1 July the NSW workers-compensation reforms move from legislation into operation, so insurers, agents and brokers must apply the new claims-handling, premium and market-practice settings from commencement with no transition runway. Two late government concessions affect day-one practice: the requirement for a prior court finding in bullying, sexual-harassment and racial-harassment cases has been removed, and the reasonable-management-action defence now bites where management action is the significant (rather than a) cause of the injury.",
+          "so_what": "The shift from anticipating the reform to operating under it concentrates execution risk on commencement day; the softened harassment pathway and recast management-action defence change how compensability is assessed from the first claim, and are the most likely early flashpoints for disputes and inconsistent decisions across insurers.",
+          "tags": ["NSW", "Commencement", "Scheme reform"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/workers-compensation/workers-compensation-reform-faqs",
+          "published": "2026-06-30",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW activates $344m mental-health package with 51 new SafeWork inspectors and a Psychosocial Advisory Service",
+          "summary": "Alongside commencement, NSW is standing up its $344m Workplace Mental Health package, including SafeWork NSW's largest-ever inspector uplift of 51 additional staff (around 20 of them psychosocial specialists) drawn from psychology, anti-bullying and trauma-informed backgrounds, plus a new Psychosocial Advisory Service offering workers and employers tailored prevention advice and a first point of contact. The inspectors are tasked with responding to psychosocial incidents and helping employers meet return-to-work obligations.",
+          "so_what": "This builds upstream prevention and enforcement capacity precisely as downstream psychological-injury entitlements narrow, raising employers' practical compliance exposure on psychosocial risk and signalling that the regulator will police prevention even where claims access tightens.",
+          "tags": ["NSW", "Psychosocial", "Prevention"],
+          "source": "SafeWork NSW",
+          "url": "https://www.safework.nsw.gov.au/news/safework-media-releases/new-mental-health-safety-inspectors-now-supporting-workers-and-businesses",
+          "published": "2026-06-29",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Victoria holds WorkCover average premium at 1.8% for 2026-27 as a sustainability comparator",
+          "summary": "Victoria has confirmed its average WorkCover premium will stay at 1.8% in 2026-27 — a fourth consecutive year of freeze, effective 1 July — paired with a $5.8m budget allocation for return-to-work training and pilot support targeting high-risk public-sector workers such as nurses, teachers and police. The Victorian government has signalled that any savings, once the scheme returns to sustainability, will be reinvested.",
+          "so_what": "Victoria's freeze taking effect the same week as NSW's legislated premium-target freeze underlines a cross-scheme pattern of holding headline premiums flat while absorbing rising psychological-injury costs; it is a likely reference point NSW stakeholders will cite when debating whether frozen premiums are sustainable against scheme deficits.",
+          "tags": ["VIC", "Premium freeze", "Scheme sustainability"],
+          "source": "Victorian Chamber of Commerce and Industry",
+          "url": "https://www.victorianchamber.com.au/news/cost-relief-as-work-cover-premium-held-at-1-8-",
+          "published": "2026-05-19",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

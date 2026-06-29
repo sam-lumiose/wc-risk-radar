@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-06-30",
+      "file": "data/digests/2026-06-30.json",
+      "posture": "Commencement day: from 4pm today (30 June) and 1 July the NSW reform package moves from legislation to live operation, so the signal shifts from anticipating change to operating under it — new claims, premium and market-practice settings now bind insurers and agents, with late government concessions softening the day-one rules and a $344m prevention package coming online alongside.",
+      "counts": { "act": 1, "watch": 1, "inform": 1 }
+    },
+    {
       "date": "2026-06-29",
       "file": "data/digests/2026-06-29.json",
       "posture": "Commencement eve in NSW: with the reform package taking effect from 4pm 30 June / 1 July, the live signals are a pre-commencement rush of claims lodged under the old rules, mounting evidence that tighter eligibility is pushing mental-injury claims into superannuation, and a step-change in psychosocial enforcement exposure.",
