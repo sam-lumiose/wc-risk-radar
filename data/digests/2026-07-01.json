@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T05:39:32+10:00",
+  "posture": "Day two of the new regime, and the WHS side of the ledger now bites: from today section 26A makes NSW codes of practice — including the psychosocial-hazards code — enforceable benchmarks rather than guidance, sharpening employer and insurer prevention exposure just as workers-compensation entitlements narrow; the freshly operative 2026 Market Practice and Premium Guidelines also tighten the experience-rating cap, while Queensland and South Australia both hold their 2026-27 premium rates flat as cross-scheme sustainability comparators.",
+  "summary": "The headline NSW reform package (revised SIRA Guidelines, frozen premium target, new excess, tighter psychological-injury test, higher WPI threshold) commenced 30 June – 1 July and was captured in the 28–30 June digests; it is not repeated here. Today's fresh signals are on the prevention and pricing edges of the same transition: section 26A of the WHS Act commences today, converting NSW's 48 codes of practice into enforceable compliance benchmarks, and the now-operative 2026 Market Practice and Premium Guidelines cut the experience-rated premium-increase cap from 30% to 25%. Interstate, both WorkCover Queensland (target rate held at $1.343 per $100 of wages) and ReturnToWorkSA (average premium rate held at 1.85% for a fourth year) confirmed flat 2026-27 premiums taking effect today. No verifiable fresh AFR or SMH public headline surfaced in the past 24 hours, so no paywalled items are captured today.",
+  "counts": { "act": 1, "watch": 1, "inform": 2 },
+  "sections": [
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "NSW codes of practice become legally enforceable from today under WHS Act section 26A",
+          "summary": "From 1 July 2026, section 26A of the Work Health and Safety Act 2011 (NSW) changes the legal status of the state's 48 approved codes of practice — including the psychosocial-hazards code — so they operate as enforceable compliance benchmarks rather than guidance. Each PCBU must now either follow the relevant code or demonstrate an equivalent-or-higher standard of control, and SafeWork NSW can establish a breach by reference to a code without needing to prove an incident or injury occurred.",
+          "so_what": "This materially lowers the regulator's threshold to act on psychosocial and other WHS failures and lands the same week mental-injury claim entitlements tighten, concentrating prevention and compliance exposure on employers (and, by extension, scheme costs and insurer conduct expectations) precisely as the downstream compensation pathway narrows.",
+          "tags": ["NSW", "Psychosocial", "WHS codes"],
+          "source": "SafeWork NSW",
+          "url": "https://www.safework.nsw.gov.au/resource-library/list-of-all-codes-of-practice",
+          "published": "2026-07-01",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW tightens experience-rating cap to 25% as the 2026 premium guidelines take effect",
+          "summary": "Under the now-operative 2026 Market Practice and Premium Guidelines, premium capping for experience-rated employers reduces from 30% to 25% for policies commencing on or after 30 June 2026, limiting how far an employer's premium rate can rise year-on-year where the increase stems from their own claims costs or a change in calculation method. Decreases remain capped at 30%, and the change does not affect movements driven by wages or industry reclassification.",
+          "so_what": "The tighter cap smooths individual employer premium shocks during the two-year reform and target-rate freeze, but it also defers cost recovery for the worst-performing risks onto the scheme — a structural pressure point for icare's funding position and a likely friction point in broker and employer renewal conversations.",
+          "tags": ["NSW", "Experience rating", "Premium capping"],
+          "source": "icare NSW",
+          "url": "https://www.icare.nsw.gov.au/employers/understanding-workers-insurance/what-is-premium-capping-and-how-does-it-work",
+          "published": "2026-06-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "WorkCover Queensland holds its target premium rate flat at $1.343 for a second year",
+          "summary": "WorkCover Queensland will keep its target average premium rate at $1.343 per $100 of wages for 2026-27, the second consecutive year without an increase, with the Board citing the fund's financial sustainability as enabling continued price certainty for employers. The rate takes effect for the new financial year from 1 July.",
+          "so_what": "Queensland's monopoly scheme holding premiums flat while remaining sustainable is a recurring comparator NSW stakeholders cite when questioning whether NSW's frozen target rate can hold without entitlement cuts; it underlines that scheme design and claims mix, not just price restraint, drive affordability.",
+          "tags": ["QLD", "Premium freeze", "Scheme sustainability"],
+          "source": "WorkSafe Queensland",
+          "url": "https://www.worksafe.qld.gov.au/news-and-events/news/2026/workcover-queensland-holds-premiums-steady-for-the-second-year",
+          "published": "2026-06-12",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "ReturnToWorkSA maintains its 1.85% average premium rate for a fourth straight year",
+          "summary": "The ReturnToWorkSA Board has held South Australia's average premium rate at 1.85% for 2026-27, a fourth consecutive year at that level, after weighing return-to-work performance, investment-return volatility and emerging cost pressures. The rate applies from 1 July.",
+          "so_what": "South Australia's single-insurer scheme sustaining a flat rate despite acknowledged cost pressures is another cross-scheme reference point for the NSW affordability-versus-sustainability debate, and signals that rising psychological-injury and treatment costs are being absorbed broadly rather than priced through.",
+          "tags": ["SA", "Premium freeze", "Scheme sustainability"],
+          "source": "ReturnToWorkSA",
+          "url": "https://www.rtwsa.com/about-us/news-room/articles/returntoworksa-average-premium-rate-for-2026-27-maintained",
+          "published": "2026-06-10",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
