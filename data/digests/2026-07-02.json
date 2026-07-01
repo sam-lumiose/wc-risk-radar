@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T05:39:32+10:00",
+  "posture": "Day three of the new NSW regime, and the freshest signals are the operational plumbing of the reform rather than its headline settings: the Industrial Relations Commission's new gatekeeping role now sits in front of every disputed bullying or harassment psychological-injury claim, two employer-excess exemptions (five-day notification and small-business) fell away at commencement, and NSW's annual indexation shift for exempt workers takes effect today — while interstate, WorkCover WA's revised permanent-impairment guidelines commenced 1 July as a comparator for NSW's move to a single WPI assessment.",
+  "summary": "The headline NSW reform package (revised SIRA Guidelines, frozen 1.99% premium target, tighter psychological-injury eligibility, 25% WPI threshold, 130-week weekly-payment cap) commenced 30 June – 1 July and was captured in the 28 June – 1 July digests; it is not repeated here. Today's fresh signals concern how the reform now operates in practice: the NSW Industrial Relations Commission's new relevant-conduct jurisdiction becomes the mandatory first step where an insurer disputes that alleged bullying or harassment occurred, inserting a two-stage dispute pathway ahead of the Personal Injury Commission; the removal of the five-day-notification and small-business exemptions from employer excess recovery from 4pm 30 June raises the practical cost exposure for smaller employers; and from today NSW moves exempt workers and volunteers to once-a-year (April) statutory indexation. Interstate, WorkCover WA's 2nd-edition permanent-impairment guidelines took effect 1 July as a cross-scheme comparator. No verifiable fresh AFR or SMH public headline surfaced in the past 24 hours, so no paywalled items are captured today.",
+  "counts": { "act": 1, "watch": 1, "inform": 2 },
+  "sections": [
+    {
+      "category": "Legal & Case Law",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "NSW Industrial Relations Commission becomes the mandatory first step in disputed bullying and harassment psychological-injury claims",
+          "summary": "Under the now-operative reforms, where an insurer disputes a primary psychological-injury claim on the basis that the alleged bullying, sexual or racial harassment or excessive work demands did not occur, the worker must first obtain a determination from the NSW Industrial Relations Commission's new anti-bullying and sexual-harassment jurisdiction that the conduct happened before the compensation dispute can proceed in the Personal Injury Commission. The new IRC jurisdiction is the first in the country able to order damages (capped at $100,000) alongside stop-bullying and stop-harassment orders, and excludes conduct that amounts to reasonable management action carried out reasonably.",
+          "so_what": "This inserts a two-stage, cross-tribunal pathway in front of contested psychological-injury claims, changing dispute strategy, timing and cost for insurers and agents from the first disputed claim; how the IRC characterises 'relevant conduct' will effectively set the gateway to compensability and is a likely early source of delay, forum disputes and inconsistent outcomes.",
+          "tags": ["NSW", "Psychological injury", "Dispute pathway"],
+          "source": "King & Wood Mallesons (law-firm insight)",
+          "url": "https://www.kwm.com/au/en/insights/latest-thinking/nsw-workers-compensation-reform-streamlined-pathways-for-bullying-and-harassment-claims-in-nsw.html",
+          "published": "2026-07-01",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Two employer-excess exemptions fall away, lifting first-dollar cost exposure for smaller NSW employers",
+          "summary": "From 4pm on 30 June 2026 the reform removed two previously available exemptions from the employer excess on workers-compensation claims: the exemption where an employer notifies the injury within five days, and the exemption for small-business employers. Employers now generally bear the excess on the cost of the first weekly payments regardless of prompt notification or size.",
+          "so_what": "Removing the small-business and prompt-notification carve-outs shifts a slice of early claims cost back onto employers just as psychological-injury eligibility tightens, sharpening affordability and renewal friction for smaller policyholders and feeding broker and employer complaints even while headline premium rates stay frozen.",
+          "tags": ["NSW", "Employer excess", "Small business"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/nsw-workers-compensation-enters-new-era-with-dual-guideline-update-580416.aspx",
+          "published": "2026-07-01",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "WorkCover WA's 2nd-edition permanent-impairment guidelines take effect as a comparator for NSW's single-assessment model",
+          "summary": "WorkCover WA's Guidelines for the Evaluation of Permanent Impairment (2nd edition) commenced on 1 July 2026, introducing technical amendments to how permanent impairment is assessed under Western Australia's privately underwritten scheme, alongside revised public-hospital fees for workers-compensation patients from the same date. The changes continue the bedding-down of WA's Workers Compensation and Injury Management Act 2023.",
+          "so_what": "Impairment-assessment methodology is the pivot on which lump-sum and threshold entitlements turn, so WA's refreshed guidelines are a useful cross-scheme reference point as NSW moves to a single Whole Person Impairment assessment and raises its psychological-injury thresholds; divergences in method invite arbitrage and comparison in stakeholder debate.",
+          "tags": ["WA", "Permanent impairment", "Guidelines"],
+          "source": "WorkCover WA",
+          "url": "https://www.workcover.wa.gov.au/wp-content/uploads/2026/04/WorkCover-WA-Permanent-Impairment-Guidelines-2nd-Ed-Summary-of-Changes-Effective-1-July-2026.pdf",
+          "published": "2026-07-01",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "NSW moves exempt workers and volunteers to once-a-year indexation from today",
+          "summary": "From 2 July 2026 the statutory compensation rate for exempt workers and volunteers is indexed once a year in April, replacing the previous twice-yearly indexation schedule. The change aligns exempt-worker and volunteer entitlements with an annual adjustment cycle under the reformed scheme.",
+          "so_what": "A minor but concrete operational change insurers and agents must reflect in payment systems and worker communications from commencement; it modestly changes the timing of benefit uplifts for exempt cohorts and is worth noting for accuracy in claims administration rather than for any material cost impact.",
+          "tags": ["NSW", "Exempt workers", "Indexation"],
+          "source": "icare NSW",
+          "url": "https://www.icare.nsw.gov.au/mental-health-claims-hub/employers/weekly-payments-for-exempt-workers-and-volunteers",
+          "published": "2026-07-01",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
