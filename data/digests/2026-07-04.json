@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T06:05:00+10:00",
+  "posture": "A quiet weekend in week one of the new NSW regime: no fresh regulator releases surfaced over the past 24 hours as SIRA, icare and the Personal Injury Commission's commencement-day settings (covered in the 28 June – 3 July digests) settle into operation. The single distinct new signal is downstream rather than scheme-side — trade commentary warning that superannuation and total-and-permanent-disability funds face growing exposure as tighter psychological-injury gateways across the schemes, NSW's included, push displaced claimants toward other parts of the safety net.",
+  "summary": "The core NSW reform package (revised SIRA Guidelines, frozen 1.99% Nominal Insurer premium target, stricter 'relevant event' psychological-injury test, 25% WPI threshold rising to 28% by 2029, 130-week weekly-payment cap, single 'principal assessment', and enforceable psychosocial code) commenced 30 June – 1 July and was fully covered in the 28 June – 3 July digests; it is not repeated here. Being a Saturday, no fresh NSW regulator or tribunal releases surfaced in the past 24 hours. The one distinct new signal is downstream: industry commentary cautions that superannuation and total-and-permanent-disability providers face rising claim exposure as workers-compensation schemes led by NSW tighten psychological-injury eligibility — the cost-displacement thesis independent actuaries flagged earlier in the week, now viewed from the receiving end. No verifiable fresh AFR or SMH public headline surfaced in the past 24 hours, so no paywalled items are captured today.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Trade commentary warns super and TPD funds face rising exposure as workers-comp schemes tighten psychological-injury gateways",
+          "summary": "Insurance-industry commentary argues that superannuation funds and their total-and-permanent-disability insurers are underprepared for a shift in claim demand as workers-compensation schemes — with NSW's tightened psychological-injury eligibility and higher whole-person-impairment thresholds the most prominent example — narrow access to statutory benefits. The piece frames the change as moving cost and support obligations onto adjacent parts of the safety net rather than removing the underlying need.",
+          "so_what": "This is the receiving-end view of the cost-displacement thesis independent actuaries raised earlier in the week: if NSW's stricter gateway diverts psychological-injury claimants toward superannuation and TPD cover, that reshapes where scheme-driven cost ultimately lands and is relevant to judging whether the two-year premium freeze holds on eligibility tightening alone. A national/NSW read-across worth monitoring as early post-commencement claim-mix data emerges.",
+          "tags": ["National", "Scheme sustainability", "Psychological injury", "Superannuation"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/super-funds-are-sleepwalking-into-a-workers-compensation-crisis-579225.aspx",
+          "published": "2026-07-03",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
