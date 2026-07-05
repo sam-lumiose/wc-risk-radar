@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T06:10:00+10:00",
+  "posture": "A second quiet Sunday in week one of the new NSW regime: no fresh SIRA, icare or Personal Injury Commission releases surfaced in the past 24 hours, with the commencement-day settings (covered in the 28 June – 4 July digests) now bedding in. The two distinct new signals are both second-order — a NSW tribunal ruling forcing partial disclosure of how SIRA-held insurer premiums are calculated (in the adjacent home building compensation scheme, but a transparency precedent that reads across to workers-comp premium filings), and an EML white paper putting a hard number on the return-to-work value of better claims handling as psychological-claim cost migrates across schemes.",
+  "summary": "The core NSW reform package (revised SIRA Guidelines, frozen 1.99% Nominal Insurer premium target, stricter 'relevant event' psychological-injury test, 25% WPI threshold rising to 28% by 2029, 130-week weekly-payment cap, single principal assessment, and enforceable psychosocial code) commenced 30 June – 1 July and was fully covered in the 28 June – 4 July digests; it is not repeated here. Being a Sunday, no fresh NSW regulator or tribunal media releases surfaced in the past 24 hours. Two distinct new signals stand out: a NSW Civil and Administrative Tribunal ruling (handed down 29 June, reported 3–4 July) that SIRA must reconsider releasing how icare's monopoly home building premiums are calculated while keeping the insurer's internal numbers confidential — a premium-transparency precedent worth watching for read-across to workers-comp premium filings; and a newly surfaced EML white paper quantifying that better claims handling makes injured workers 247% more likely to return to work within six months, framed against cross-scheme psychological-claim cost migrating into superannuation and income protection. No verifiable fresh AFR or SMH public headline on workers compensation surfaced in the past 24 hours, so no paywalled items are captured today.",
+  "counts": { "act": 0, "watch": 0, "inform": 2 },
+  "sections": [
+    {
+      "category": "Legal & Case Law",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "NSW tribunal orders SIRA to reconsider releasing how icare's monopoly premiums are calculated, while shielding the insurer's internal numbers",
+          "summary": "The NSW Civil and Administrative Tribunal, ruling on 29 June on an access application by a law firm, found that information about how premiums are calculated in the SIRA-administered home building compensation scheme should be disclosed given long-running public concern about high premiums under a single-insurer monopoly, but that icare's internal profits, specific costs and business planning should stay confidential. Rather than order release, the tribunal sent the decision back to SIRA to reconsider in line with its reasons, with a directions hearing set for 7 July.",
+          "so_what": "Although this concerns the home building compensation scheme rather than workers compensation, it is a transparency precedent on the same regulator: it narrows SIRA's ability to keep regulator-held insurer premium-methodology data confidential, and the tribunal's reasoning — that SIRA's compulsory information powers mean disclosure won't chill supply — could read across to future access requests over Nominal Insurer premium filings, especially with the icare premium target under a legislated freeze and public scrutiny of scheme pricing running high. Worth monitoring the 7 July directions hearing.",
+          "tags": ["NSW", "Premium transparency", "SIRA", "icare"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/legal-insights/tribunal-backs-public-access-to-nsw-home-building-premium-calculations-581133.aspx",
+          "published": "2026-07-03",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "EML white paper puts a 247% return-to-work figure on better claims handling as psychological-claim cost migrates across schemes",
+          "summary": "A new EML white paper argues that three practical claims-handling steps — providing psychological and vocational support at first contact rather than after a liability investigation, warm handovers between workers-comp, income protection and social security with a single accountable case lead, and measuring success by recovery rather than by closing the file — rarely happen together across the system. It cites an independent Taylor Fry evaluation, published by Comcare, finding participants in one program were 247% more likely to return to work within six months, and models income-protection lodgements inside superannuation rising around 19% over a decade as Victoria and NSW tighten psychological-injury access.",
+          "so_what": "This is the operational, provider-side complement to the cost-displacement thesis flagged earlier in the week: it reframes claims-handling quality and early intervention as direct levers on claim duration, premiums and cross-scheme cost migration, which matters for judging whether NSW's tightened psychological gateway and two-year premium freeze translate into genuine cost reduction or merely shift cost into super and TPD. A national read-across for NSW insurers and agents now operating under the new return-to-work-focused settings.",
+          "tags": ["National", "Return to work", "Psychological injury", "Claims handling"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/the-247-case-for-fixing-claims-handling-and-why-it-mostly-isnt-happening-581005.aspx",
+          "published": "2026-07-03",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

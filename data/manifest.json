@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-07-05",
+      "file": "data/digests/2026-07-05.json",
+      "posture": "A second quiet Sunday in week one of the new NSW regime: no fresh SIRA, icare or Personal Injury Commission releases surfaced in the past 24 hours, with the commencement-day settings (covered in the 28 June – 4 July digests) now bedding in. The two distinct new signals are both second-order — a NSW tribunal ruling forcing partial disclosure of how SIRA-held insurer premiums are calculated (in the adjacent home building compensation scheme, but a transparency precedent that reads across to workers-comp premium filings), and an EML white paper putting a hard number on the return-to-work value of better claims handling as psychological-claim cost migrates across schemes.",
+      "counts": { "act": 0, "watch": 0, "inform": 2 }
+    },
+    {
       "date": "2026-07-04",
       "file": "data/digests/2026-07-04.json",
       "posture": "A quiet weekend in week one of the new NSW regime: no fresh regulator releases surfaced over the past 24 hours as SIRA, icare and the Personal Injury Commission's commencement-day settings (covered in the 28 June – 3 July digests) settle into operation. The single distinct new signal is downstream rather than scheme-side — trade commentary warning that superannuation and total-and-permanent-disability funds face growing exposure as tighter psychological-injury gateways across the schemes, NSW's included, push displaced claimants toward other parts of the safety net.",
