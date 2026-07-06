@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-07-07",
+      "file": "data/digests/2026-07-07.json",
+      "posture": "Another quiet day in week two of the new NSW regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% premium target, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — all covered in the 28 June – 6 July digests) continuing to bed in. The single distinct signal worth carrying today is a capital-side rather than scheme-side one: the mid-year reinsurance renewals settled softer, with loss-free Australia/NZ programs pricing down 10–15%, a background tailwind for the privately-underwritten workers-comp markets and licensed insurers that reads across as an inform-level datapoint for NSW only indirectly.",
+      "counts": { "act": 0, "watch": 0, "inform": 1 }
+    },
+    {
       "date": "2026-07-06",
       "file": "data/digests/2026-07-06.json",
       "posture": "A quiet start to week two of the new NSW regime: no fresh SIRA, icare or Personal Injury Commission media releases surfaced in the past 24 hours, with the commencement-day settings (covered in the 28 June – 5 July digests) continuing to bed in. The single distinct signal worth flagging today is a standing, reform-embedded review rather than a breaking event — the NSW Chief Psychiatrist's review of the Psychiatric Impairment Rating Scale, the tool used to assess permanent psychological impairment, which sits directly upstream of the psychological WPI thresholds just lifted to 25%.",

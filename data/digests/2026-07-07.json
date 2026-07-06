@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T05:39:00+10:00",
+  "posture": "Another quiet day in week two of the new NSW regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% premium target, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — all covered in the 28 June – 6 July digests) continuing to bed in. The single distinct signal worth carrying today is a capital-side rather than scheme-side one: the mid-year reinsurance renewals settled softer, with loss-free Australia/NZ programs pricing down 10–15%, a background tailwind for the privately-underwritten workers-comp markets and licensed insurers that reads across as an inform-level datapoint for NSW only indirectly.",
+  "summary": "The core NSW reform package commenced 30 June – 1 July and was fully covered in the 28 June – 6 July digests; it is not repeated here. No fresh NSW regulator or tribunal releases surfaced in the past 24 hours, and no verifiable fresh AFR or SMH public headline on Australian workers compensation surfaced, so no paywalled items are captured today. The one distinct in-scope signal is the outcome of the 1 July mid-year reinsurance renewals, where abundant global capacity drove loss-free Australia/NZ pricing down 10–15% and held casualty broadly stable — a soft-market backdrop relevant to the capital position of the privately-underwritten schemes (WA, TAS, NT, ACT) and licensed insurers, carried as context rather than a NSW-specific development.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Mid-year reinsurance renewals settle softer, easing the capital backdrop for privately-underwritten workers-comp markets",
+          "summary": "Brokers reported that the 1 July 2026 reinsurance renewals completed against record global capacity, with loss-free Australia and New Zealand programs pricing down roughly 10–15% and cedants buying more vertical limit, while casualty lines held broadly stable rather than softening. The driver is sustained reinsurer profitability and an increasingly competitive, buyer-friendly market rather than any workers-comp-specific event.",
+          "so_what": "Cheaper, more abundant reinsurance is a modest tailwind for the capital and pricing position of the privately-underwritten workers-comp schemes (WA, TAS, NT, ACT) and the licensed insurers that operate across them, and a favourable backdrop for APRA-regulated capital generally; for the NSW Nominal Insurer — which is statutory and self-funded through premiums rather than reinsurance-dependent — the read-across is indirect, so this is situational awareness only. Worth noting that a soft reinsurance market can persist only until a large loss event turns it.",
+          "tags": ["National", "Reinsurance", "APRA", "Scheme sustainability"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/record-capital-drives-softer-reinsurance-pricing-at-july-renewals-580902.aspx",
+          "published": "2026-07-02",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
