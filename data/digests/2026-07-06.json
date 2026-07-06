@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T11:15:00+10:00",
+  "posture": "A quiet start to week two of the new NSW regime: no fresh SIRA, icare or Personal Injury Commission media releases surfaced in the past 24 hours, with the commencement-day settings (covered in the 28 June – 5 July digests) continuing to bed in. The single distinct signal worth flagging today is a standing, reform-embedded review rather than a breaking event — the NSW Chief Psychiatrist's review of the Psychiatric Impairment Rating Scale, the tool used to assess permanent psychological impairment, which sits directly upstream of the psychological WPI thresholds just lifted to 25%.",
+  "summary": "The core NSW reform package (revised SIRA Guidelines, frozen 1.99% Nominal Insurer premium target, tighter 'relevant event' psychological-injury test, 25% WPI threshold rising to 28% by 2029, 130-week weekly-payment cap, single principal impairment assessment, and enforceable psychosocial code) commenced 30 June – 1 July and was fully covered in the 28 June – 5 July digests; it is not repeated here. No fresh NSW regulator or tribunal releases surfaced in the past 24 hours. The one distinct in-scope signal is the NSW Chief Psychiatrist's review of the Psychiatric Impairment Rating Scale (PIRS), embedded in the reform legislation with a report due within 18 months of assent (into 2027), which could reshape how the newly raised psychological impairment thresholds are actually measured. No verifiable fresh AFR or SMH public headline on workers compensation surfaced in the past 24 hours, so no paywalled items are captured today.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "NSW Chief Psychiatrist's review of the psychiatric impairment tool sits upstream of the psychological thresholds just raised",
+          "summary": "A review by the NSW Chief Psychiatrist of the Psychiatric Impairment Rating Scale (PIRS) — the instrument used to assess permanent impairment for psychological and psychiatric injuries — is underway, mandated by the reform legislation to report within 18 months of assent (delivering into 2027). The review is tasked with judging whether PIRS is reliable, consistent and appropriate for measuring whole person impairment and whether an alternative approach should replace it.",
+          "so_what": "The reform package has just lifted the psychological WPI threshold for extended weekly payments and lump sums to 25% (rising to 28% by 2029), so the measuring instrument behind those gateways is now doing far more work; any recommendation to revise or replace PIRS would change how many psychological claims actually clear the higher thresholds, making this a slow-burn but structurally significant signal for insurers pricing and reserving under the new settings. Worth carrying as a watch item as the 2027 reporting window approaches.",
+          "tags": ["NSW", "Psychological injury", "Whole Person Impairment", "SIRA"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/workers-compensation/workers-compensation-reform-faqs",
+          "published": "2026-07-06",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
