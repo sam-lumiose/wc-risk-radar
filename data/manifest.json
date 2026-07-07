@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-07-08",
+      "file": "data/digests/2026-07-08.json",
+      "posture": "Week two of the new NSW regime brings the first substantive regulator communication since commencement rather than any breaking event: SIRA's Bulletin Issue 76 (7 July) confirms the authority has stood up mechanisms to monitor how insurers are applying the reformed claims, premium and psychological-injury settings, launched a consolidated reform information hub, and flags that the Industrial Relations Commission has now published the practice note and forms that operationalise its new workplace-conduct jurisdiction — the gateway through which every disputed bullying or harassment psychological-injury claim must now pass. Both signals are implementation plumbing rather than new policy, so they sit at inform, but the insurer-monitoring line is the more risk-relevant of the two.",
+      "counts": { "act": 0, "watch": 0, "inform": 2 }
+    },
+    {
       "date": "2026-07-07",
       "file": "data/digests/2026-07-07.json",
       "posture": "Another quiet day in week two of the new NSW regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% premium target, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — all covered in the 28 June – 6 July digests) continuing to bed in. The single distinct signal worth carrying today is a capital-side rather than scheme-side one: the mid-year reinsurance renewals settled softer, with loss-free Australia/NZ programs pricing down 10–15%, a background tailwind for the privately-underwritten workers-comp markets and licensed insurers that reads across as an inform-level datapoint for NSW only indirectly.",

@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T05:40:19+10:00",
+  "posture": "Week two of the new NSW regime brings the first substantive regulator communication since commencement rather than any breaking event: SIRA's Bulletin Issue 76 (7 July) confirms the authority has stood up mechanisms to monitor how insurers are applying the reformed claims, premium and psychological-injury settings, launched a consolidated reform information hub, and flags that the Industrial Relations Commission has now published the practice note and forms that operationalise its new workplace-conduct jurisdiction — the gateway through which every disputed bullying or harassment psychological-injury claim must now pass. Both signals are implementation plumbing rather than new policy, so they sit at inform, but the insurer-monitoring line is the more risk-relevant of the two.",
+  "summary": "A quiet-but-not-empty day: no fresh icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, but SIRA published Bulletin Issue 76, its first bulletin since the 1 July commencement. The bulletin confirms active SIRA oversight of insurer application of the reforms and the publication of IRC workplace-conduct practice notes and forms. Interstate and national sources produced nothing materially significant in the window.",
+  "counts": { "act": 0, "watch": 0, "inform": 2 },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "SIRA's first post-commencement bulletin confirms it is monitoring how insurers apply the reforms and launches a consolidated reform information hub",
+          "summary": "In Bulletin Issue 76 (7 July), SIRA's Acting Chief Executive says the regulator is working with insurers to ensure consistent application of the changes that began on 1 July and has put in place mechanisms to monitor how insurers are implementing them, alongside a new dedicated online information hub bringing guidance and resources into one place. The bulletin also notes the Chief Psychiatrist's independent review of the Psychiatric Impairment Rating Scale has formally commenced and that indexed adjustments to the workers compensation benefits guide took effect from 1 July.",
+          "so_what": "The explicit reference to monitoring mechanisms signals that insurer and agent conduct in applying the tighter psychological-injury test, WPI thresholds and benefit caps will be actively supervised, raising near-term compliance and consistency expectations on scheme participants during the bedding-in period.",
+          "tags": ["NSW", "Scheme reform", "Insurer conduct"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/news/sira-bulletin-issue-76",
+          "published": "2026-07-07",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Industrial Relations Commission publishes the practice note and forms that operationalise its new workplace-conduct jurisdiction",
+          "summary": "Per SIRA Bulletin Issue 76, the Industrial Relations Commission of NSW has released Practice Note No 38 (Workplace Conduct Proceedings) and new forms IRC 67, 68 and 69, plus an updated appeal form, covering its new jurisdiction to determine whether the conduct underlying a psychological-injury claim (such as bullying or harassment) occurred.",
+          "so_what": "These instruments turn the reform's new gatekeeping step from concept into live procedure, so insurers, employers and their advisers now have the concrete pathway and evidentiary requirements for contesting or defending disputed psychological-injury claims — the front end of the scheme's cost-containment design.",
+          "tags": ["NSW", "Psychological injury", "Dispute resolution"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/news/sira-bulletin-issue-76",
+          "published": "2026-07-07",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
