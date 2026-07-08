@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-07-09",
+      "file": "data/digests/2026-07-09.json",
+      "posture": "A quiet NSW day in week two of the new regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% target rate, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — covered in the 28 June – 8 July digests) continuing to bed in. The single distinct new signal is interstate and inform-level: WorkSafe Victoria opened its 2026-27 premium renewals on 8 July with the average rate frozen at 1.8% for a fourth straight year, a scheme-sustainability comparator that reads across to NSW's own frozen Nominal Insurer target rate.",
+      "counts": { "act": 0, "watch": 0, "inform": 1 }
+    },
+    {
       "date": "2026-07-08",
       "file": "data/digests/2026-07-08.json",
       "posture": "Week two of the new NSW regime brings the first substantive regulator communication since commencement rather than any breaking event: SIRA's Bulletin Issue 76 (7 July) confirms the authority has stood up mechanisms to monitor how insurers are applying the reformed claims, premium and psychological-injury settings, launched a consolidated reform information hub, and flags that the Industrial Relations Commission has now published the practice note and forms that operationalise its new workplace-conduct jurisdiction — the gateway through which every disputed bullying or harassment psychological-injury claim must now pass. Both signals are implementation plumbing rather than new policy, so they sit at inform, but the insurer-monitoring line is the more risk-relevant of the two.",

@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T05:39:30+10:00",
+  "posture": "A quiet NSW day in week two of the new regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% target rate, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — covered in the 28 June – 8 July digests) continuing to bed in. The single distinct new signal is interstate and inform-level: WorkSafe Victoria opened its 2026-27 premium renewals on 8 July with the average rate frozen at 1.8% for a fourth straight year, a scheme-sustainability comparator that reads across to NSW's own frozen Nominal Insurer target rate.",
+  "summary": "Nothing materially new on the NSW scheme side in the window. Interstate, WorkSafe Victoria began issuing 2026-27 premium renewal notices online from 8 July and confirmed the average premium stays at 1.8% for a fourth consecutive year, paired with a $5.8m budget package for return-to-work support including pilots for high-risk public-sector workers. No other jurisdiction produced a materially significant, non-duplicative item.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Premiums & Pricing",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "WorkSafe Victoria opens 2026-27 premium renewals with the average rate frozen at 1.8% for a fourth year and new return-to-work funding",
+          "summary": "From 8 July 2026 Victorian employers can access their 2026-27 premium renewal notices through WorkSafe's Online Employer Services, with the average premium held at 1.8% of rateable remuneration — unchanged for the fourth year running. The freeze was announced alongside a $5.8m Victorian Budget 2026-27 investment in free training and tailored return-to-work support, including pilots targeting high-risk public-sector cohorts such as nurses, teachers and police.",
+          "so_what": "Another year of a held Victorian premium sets a sustainability comparator against NSW's frozen Nominal Insurer target rate, sharpening the question of how long capped headline rates can absorb rising psychological-claim costs before scheme funding pressure forces a correction — a template NSW stakeholders will cite when the icare freeze is next tested.",
+          "tags": ["VIC", "Premium freeze", "Return to work"],
+          "source": "WorkSafe Victoria",
+          "url": "https://www.worksafe.vic.gov.au/industry-rates-and-key-dates",
+          "published": "2026-07-08",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
