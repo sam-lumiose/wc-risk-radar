@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-07-10",
+      "file": "data/digests/2026-07-10.json",
+      "posture": "An empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week two of the new regime — no new SIRA, icare, Personal Injury Commission or SafeWork NSW media releases beyond the commencement-day settings (revised Guidelines, frozen 1.99% target rate, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code, IRC workplace-conduct gateway, SIRA insurer-monitoring — all covered in the 28 June – 9 July digests). Interstate, the only recent developments (WorkSafe Victoria's 2026-27 premium freeze and return-to-work funding on 8 July, and WorkCover Queensland's held target rate) were already captured, and no jurisdiction produced a materially significant, non-duplicative item today.",
+      "counts": { "act": 0, "watch": 0, "inform": 0 }
+    },
+    {
       "date": "2026-07-09",
       "file": "data/digests/2026-07-09.json",
       "posture": "A quiet NSW day in week two of the new regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% target rate, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — covered in the 28 June – 8 July digests) continuing to bed in. The single distinct new signal is interstate and inform-level: WorkSafe Victoria opened its 2026-27 premium renewals on 8 July with the average rate frozen at 1.8% for a fourth straight year, a scheme-sustainability comparator that reads across to NSW's own frozen Nominal Insurer target rate.",
