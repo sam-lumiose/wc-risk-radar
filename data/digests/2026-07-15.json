@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T05:40:00+10:00",
+  "posture": "One distinct new NSW signal in week three of the reformed regime: the Industrial Relations Commission has handed down its first published stop-bullying decision, refusing to strike out parts of a worker's application even though some alleged conduct occurred away from work. It is an interlocutory, preventive-jurisdiction ruling rather than a workers-comp claim determination, so it sits at watch, but it is the first precedent in the IRC's expanded bullying jurisdiction and reads across to how the reformed scheme's psychological-injury conduct claims will be framed. Otherwise NSW's primary regulators (SIRA, icare, Personal Injury Commission, SafeWork NSW) produced no fresh, non-duplicative release, and no interstate or national item cleared the jurisdiction-weighting bar.",
+  "summary": "A near-quiet day with a single carry-worthy legal signal. The NSW IRC issued what is reported as its first published decision in the stop-bullying jurisdiction it acquired in October 2025, declining to remove non-work allegations because they may bear on the risk of future bullying — an early read on the 'at work' boundary in that jurisdiction. All other NSW regulator and tribunal channels returned only commencement-day reform background already covered in the 28 June – 14 July digests, which is not repeated. Interstate and national activity (Comcare's 1 July statutory-rate refresh, the Queensland scheme review due late 2026, and the frozen Victorian/Queensland/SA premium settings) was routine or already captured, and no verifiable fresh AFR or SMH public headline on Australian workers compensation surfaced.",
+  "counts": { "act": 0, "watch": 1, "inform": 0 },
+  "sections": [
+    {
+      "category": "Legal & Case Law",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW Industrial Relations Commission delivers its first published stop-bullying decision, keeping non-work conduct in play",
+          "summary": "In what is reported as the IRC's first published decision under the stop-bullying and sexual-harassment jurisdiction it gained in October 2025, Commissioner Muir declined to strike out parts of an executive assistant's application against a regional council and an individual councillor, even though he accepted some of the alleged conduct did not occur while she was 'at work'. The reasoning was that the non-work allegations could still be relevant to assessing the prospect of future bullying.",
+          "so_what": "As the first precedent on the reach of the IRC's bullying jurisdiction, it signals a broad reading of what conduct can be examined — relevant because the same Commission is the new gateway for contested psychological-injury workers-comp claims under the July reforms, so an expansive 'at work' and future-risk approach here could shape how bullying-based psychological-injury disputes are framed and defended.",
+          "tags": ["NSW", "Psychological injury", "Bullying", "Industrial Relations Commission"],
+          "source": "HR Daily",
+          "url": "https://www.hrdaily.com.au/news/meaning-of-at-work-considered-in-two-new-stop-bullying-claims-13503",
+          "published": "2026-07-13",
+          "paywall": true
+        }
+      ]
+    }
+  ]
+}
