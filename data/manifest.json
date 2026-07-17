@@ -6,124 +6,214 @@
   },
   "digests": [
     {
+      "date": "2026-07-18",
+      "file": "data/digests/2026-07-18.json",
+      "posture": "An empty day, and a Saturday: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week three of the reformed regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release surfaced beyond the commencement-day settings (revised Guidelines, frozen 1.99% Nominal Insurer target rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial code, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June – 17 July digests). Two items surfaced today but failed the freshness test on checking: SafeWork NSW's withdrawal of its landmark psychosocial prosecution against Western Sydney Local Health District dates to 2025, and the Commonwealth's independent review of the Safety, Rehabilitation and Compensation Act 1988 was released in February 2026. Neither is a last-24-hours development, so neither is carried. No interstate or national item cleared the jurisdiction-weighting bar.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-07-17",
       "file": "data/digests/2026-07-17.json",
       "posture": "An empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week three of the reformed regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO media release surfaced beyond the commencement-day settings (revised Guidelines, frozen 1.99% Nominal Insurer target rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial code, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June – 16 July digests). The IRC's first published stop-bullying decision was captured in the 15 July digest and is not repeated. No interstate or national item cleared the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-16",
       "file": "data/digests/2026-07-16.json",
       "posture": "An empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week three of the reformed regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission or SafeWork NSW media release surfaced beyond the commencement-day settings (revised Guidelines, frozen 1.99% Nominal Insurer target rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial code, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June – 15 July digests). The IRC's first published stop-bullying decision was captured in yesterday's digest and is not repeated. No interstate or national item cleared the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-15",
       "file": "data/digests/2026-07-15.json",
       "posture": "One distinct new NSW signal in week three of the reformed regime: the Industrial Relations Commission has handed down its first published stop-bullying decision, refusing to strike out parts of a worker's application even though some alleged conduct occurred away from work. It is an interlocutory, preventive-jurisdiction ruling rather than a workers-comp claim determination, so it sits at watch, but it is the first precedent in the IRC's expanded bullying jurisdiction and reads across to how the reformed scheme's psychological-injury conduct claims will be framed. Otherwise NSW's primary regulators (SIRA, icare, Personal Injury Commission, SafeWork NSW) produced no fresh, non-duplicative release, and no interstate or national item cleared the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 1, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-14",
       "file": "data/digests/2026-07-14.json",
       "posture": "Another empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week three of the new regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission or SafeWork NSW media release surfaced beyond the commencement-day settings (revised Guidelines, frozen 1.99% Nominal Insurer target rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial code, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June – 13 July digests). Interstate and national activity (WorkSafe Victoria's frozen 1.8% average rate, WorkCover Queensland's held $1.343 target rate, and ReturnToWorkSA's maintained 1.85% average premium rate) was already captured or too routine to clear the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-13",
       "file": "data/digests/2026-07-13.json",
       "posture": "Another empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week three of the new regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission or SafeWork NSW media release surfaced beyond the commencement-day settings (revised Guidelines, frozen 1.99% Nominal Insurer target rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial code, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June – 12 July digests). Interstate and national activity (WorkSafe Victoria's frozen 1.8% average rate, WorkCover Queensland's held $1.343 target rate, and ReturnToWorkSA's maintained 1.85% average premium rate) was already captured or too routine to clear the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-12",
       "file": "data/digests/2026-07-12.json",
       "posture": "Another empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week three of the new regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission or SafeWork NSW media release surfaced beyond the commencement-day settings (revised Guidelines, frozen 1.99% Nominal Insurer target rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial code, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June – 11 July digests). Interstate and national activity (WorkSafe Victoria's frozen 1.8% average rate, WorkCover Queensland's held $1.343 target rate and 1 July allied-health fee update) was already captured or too routine to clear the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-11",
       "file": "data/digests/2026-07-11.json",
       "posture": "Another empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week two of the new regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission or SafeWork NSW media release surfaced beyond the commencement-day settings (revised Guidelines, frozen 1.99% Nominal Insurer target rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial code, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June – 10 July digests). Interstate and national activity (WorkSafe Victoria's frozen 1.8% average rate, WorkCover Queensland's held target rate and 1 July allied-health fee update, and Comcare's routine 1 July statutory-rate/provider-fee refresh) was either already captured or too routine to clear the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-10",
       "file": "data/digests/2026-07-10.json",
       "posture": "An empty day: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW remains quiet in week two of the new regime — no new SIRA, icare, Personal Injury Commission or SafeWork NSW media releases beyond the commencement-day settings (revised Guidelines, frozen 1.99% target rate, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code, IRC workplace-conduct gateway, SIRA insurer-monitoring — all covered in the 28 June – 9 July digests). Interstate, the only recent developments (WorkSafe Victoria's 2026-27 premium freeze and return-to-work funding on 8 July, and WorkCover Queensland's held target rate) were already captured, and no jurisdiction produced a materially significant, non-duplicative item today.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-09",
       "file": "data/digests/2026-07-09.json",
       "posture": "A quiet NSW day in week two of the new regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% target rate, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — covered in the 28 June – 8 July digests) continuing to bed in. The single distinct new signal is interstate and inform-level: WorkSafe Victoria opened its 2026-27 premium renewals on 8 July with the average rate frozen at 1.8% for a fourth straight year, a scheme-sustainability comparator that reads across to NSW's own frozen Nominal Insurer target rate.",
-      "counts": { "act": 0, "watch": 0, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-08",
       "file": "data/digests/2026-07-08.json",
       "posture": "Week two of the new NSW regime brings the first substantive regulator communication since commencement rather than any breaking event: SIRA's Bulletin Issue 76 (7 July) confirms the authority has stood up mechanisms to monitor how insurers are applying the reformed claims, premium and psychological-injury settings, launched a consolidated reform information hub, and flags that the Industrial Relations Commission has now published the practice note and forms that operationalise its new workplace-conduct jurisdiction — the gateway through which every disputed bullying or harassment psychological-injury claim must now pass. Both signals are implementation plumbing rather than new policy, so they sit at inform, but the insurer-monitoring line is the more risk-relevant of the two.",
-      "counts": { "act": 0, "watch": 0, "inform": 2 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 2
+      }
     },
     {
       "date": "2026-07-07",
       "file": "data/digests/2026-07-07.json",
       "posture": "Another quiet day in week two of the new NSW regime: no fresh SIRA, icare, Personal Injury Commission or SafeWork NSW media releases surfaced in the past 24 hours, with the commencement-day settings (revised Guidelines, frozen 1.99% premium target, tighter psychological-injury test, 25% WPI threshold, 130-week cap, enforceable psychosocial code — all covered in the 28 June – 6 July digests) continuing to bed in. The single distinct signal worth carrying today is a capital-side rather than scheme-side one: the mid-year reinsurance renewals settled softer, with loss-free Australia/NZ programs pricing down 10–15%, a background tailwind for the privately-underwritten workers-comp markets and licensed insurers that reads across as an inform-level datapoint for NSW only indirectly.",
-      "counts": { "act": 0, "watch": 0, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-06",
       "file": "data/digests/2026-07-06.json",
       "posture": "A quiet start to week two of the new NSW regime: no fresh SIRA, icare or Personal Injury Commission media releases surfaced in the past 24 hours, with the commencement-day settings (covered in the 28 June – 5 July digests) continuing to bed in. The single distinct signal worth flagging today is a standing, reform-embedded review rather than a breaking event — the NSW Chief Psychiatrist's review of the Psychiatric Impairment Rating Scale, the tool used to assess permanent psychological impairment, which sits directly upstream of the psychological WPI thresholds just lifted to 25%.",
-      "counts": { "act": 0, "watch": 0, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-05",
       "file": "data/digests/2026-07-05.json",
       "posture": "A second quiet Sunday in week one of the new NSW regime: no fresh SIRA, icare or Personal Injury Commission releases surfaced in the past 24 hours, with the commencement-day settings (covered in the 28 June – 4 July digests) now bedding in. The two distinct new signals are both second-order — a NSW tribunal ruling forcing partial disclosure of how SIRA-held insurer premiums are calculated (in the adjacent home building compensation scheme, but a transparency precedent that reads across to workers-comp premium filings), and an EML white paper putting a hard number on the return-to-work value of better claims handling as psychological-claim cost migrates across schemes.",
-      "counts": { "act": 0, "watch": 0, "inform": 2 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 2
+      }
     },
     {
       "date": "2026-07-04",
       "file": "data/digests/2026-07-04.json",
       "posture": "A quiet weekend in week one of the new NSW regime: no fresh regulator releases surfaced over the past 24 hours as SIRA, icare and the Personal Injury Commission's commencement-day settings (covered in the 28 June – 3 July digests) settle into operation. The single distinct new signal is downstream rather than scheme-side — trade commentary warning that superannuation and total-and-permanent-disability funds face growing exposure as tighter psychological-injury gateways across the schemes, NSW's included, push displaced claimants toward other parts of the safety net.",
-      "counts": { "act": 0, "watch": 0, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-03",
       "file": "data/digests/2026-07-03.json",
       "posture": "Day four of the new NSW regime and the fresh signal is second-order rather than legislative: the reform's headline settings were captured in the 28 June – 2 July digests and are not repeated, while the newest signal is capacity strain at the front line of dispute resolution — the Personal Injury Commission is reporting rising filings and a slipping clearance rate just as the reform's two-stage psychological-injury pathway begins to load onto it — set against cross-scheme commentary warning that tighter impairment thresholds may displace cost rather than remove it.",
-      "counts": { "act": 0, "watch": 1, "inform": 2 }
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 2
+      }
     },
     {
       "date": "2026-07-02",
       "file": "data/digests/2026-07-02.json",
       "posture": "Day three of the new NSW regime, and the freshest signals are the operational plumbing of the reform rather than its headline settings: the Industrial Relations Commission's new gatekeeping role now sits in front of every disputed bullying or harassment psychological-injury claim, two employer-excess exemptions (five-day notification and small-business) fell away at commencement, and NSW's annual indexation shift for exempt workers takes effect today — while interstate, WorkCover WA's revised permanent-impairment guidelines commenced 1 July as a comparator for NSW's move to a single WPI assessment.",
-      "counts": { "act": 1, "watch": 1, "inform": 2 }
+      "counts": {
+        "act": 1,
+        "watch": 1,
+        "inform": 2
+      }
     },
     {
       "date": "2026-07-01",
       "file": "data/digests/2026-07-01.json",
       "posture": "Day two of the new regime, and the WHS side of the ledger now bites: from today section 26A makes NSW codes of practice — including the psychosocial-hazards code — enforceable benchmarks rather than guidance, sharpening employer and insurer prevention exposure just as workers-compensation entitlements narrow; the freshly operative 2026 Market Practice and Premium Guidelines also tighten the experience-rating cap, while Queensland and South Australia both hold their 2026-27 premium rates flat as cross-scheme sustainability comparators.",
-      "counts": { "act": 1, "watch": 1, "inform": 2 }
+      "counts": {
+        "act": 1,
+        "watch": 1,
+        "inform": 2
+      }
     },
     {
       "date": "2026-06-30",
       "file": "data/digests/2026-06-30.json",
       "posture": "Commencement day: from 4pm today (30 June) and 1 July the NSW reform package moves from legislation to live operation, so the signal shifts from anticipating change to operating under it — new claims, premium and market-practice settings now bind insurers and agents, with late government concessions softening the day-one rules and a $344m prevention package coming online alongside.",
-      "counts": { "act": 1, "watch": 1, "inform": 1 }
+      "counts": {
+        "act": 1,
+        "watch": 1,
+        "inform": 1
+      }
     },
     {
       "date": "2026-06-29",
       "file": "data/digests/2026-06-29.json",
       "posture": "Commencement eve in NSW: with the reform package taking effect from 4pm 30 June / 1 July, the live signals are a pre-commencement rush of claims lodged under the old rules, mounting evidence that tighter eligibility is pushing mental-injury claims into superannuation, and a step-change in psychosocial enforcement exposure.",
-      "counts": { "act": 1, "watch": 2, "inform": 0 }
+      "counts": {
+        "act": 1,
+        "watch": 2,
+        "inform": 0
+      }
     },
     {
       "date": "2026-06-28",
       "file": "data/digests/2026-06-28.json",
       "posture": "NSW dominates the signal: the scheme's largest reform in over a decade commences 30 June – 1 July, bringing new SIRA guidelines, a frozen premium target, a new employer excess and a far tighter psychological-injury test.",
-      "counts": { "act": 3, "watch": 3, "inform": 0 }
+      "counts": {
+        "act": 3,
+        "watch": 3,
+        "inform": 0
+      }
     }
   ]
 }
