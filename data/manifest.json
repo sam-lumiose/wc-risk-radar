@@ -6,10 +6,24 @@
   },
   "digests": [
     {
+      "date": "2026-08-03",
+      "file": "data/digests/2026-08-03.json",
+      "posture": "An empty day, and a Monday: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW is now in week six of the reformed regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release surfaced beyond the commencement-day settings (revised Workers Compensation Guidelines 2026, frozen 1.99% Nominal Insurer target collection rate held to 30 June 2028, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial codes of practice, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June - 28 July digests). The 'reasonable and necessary' Guideline update remains flagged by SIRA for October 2026 and is not yet published. No interstate or national item cleared the jurisdiction-weighting bar.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-07-28",
       "file": "data/digests/2026-07-28.json",
       "posture": "An empty day, and a Tuesday: no fresh, non-duplicative in-scope signal surfaced across the free sources in the past 24 hours. NSW is now in week five of the reformed regime — no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release surfaced beyond the commencement-day settings (revised Workers Compensation Guidelines 2026, frozen 1.99% Nominal Insurer target collection rate, tighter psychological-injury 'relevant event' test, 25% WPI thresholds, 130-week cap, section 26A enforceable psychosocial codes of practice, IRC 'relevant conduct' gateway and SIRA insurer-monitoring — all covered in the 28 June - 27 July digests). The most recent Personal Injury Commission bulletin remains PIC News No. 97 (9 June 2026); no new edition, procedural direction or decision of note surfaced. The 'reasonable and necessary' Guideline update remains flagged by SIRA for October 2026 and is not yet published. No interstate or national item cleared the jurisdiction-weighting bar.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-27",
