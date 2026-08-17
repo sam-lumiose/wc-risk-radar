@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T18:10:00+10:00",
+  "posture": "One carried signal, and a correction to the record. SIRA announced a new Chief Executive on 14 August 2026 - Megan Main, most recently head of New Zealand's Accident Compensation Corporation - to commence 12 October 2026. That release was published on the SIRA news channel three days ago but was not captured in either the 15 or 16 August digests, both of which stated that no newer SIRA release had surfaced; it is carried here as a catch-up because it falls inside the three-day de-duplication window and has not previously been recorded. Nothing new cleared the free sources in the true last-24-hours window (16-17 August, a Sunday into Monday): SIRA's most recent item remains the 14 August appointment, the Personal Injury Commission's most recent item remains PIC News No. 101 of 10 August, and no fresh icare, Industrial Relations Commission, SafeWork NSW or IRO release appeared. No interstate or national item cleared the jurisdiction-weighting bar. Separately, the run of 30 consecutive empty digests since 10 July should be treated as a scanning-reliability question rather than a settled reading of a quiet scheme - see the summary.",
+  "summary": "The single recorded item is the appointment of Megan Main as SIRA Chief Executive, announced 14 August and commencing 12 October 2026. Her start date lands within days of the 1 October commencement of the tightened 'reasonable and necessary' treatment test, and she arrives with the reform package's psychological-injury settings still in early implementation, so the appointment is a leadership signal on regulatory posture rather than a change in rules. Beyond that, no new NSW regulator or tribunal release surfaced in the last 24 hours, and all other free-source results restated the 1 July reform settings already documented across the 28 June to 16 August digests. On the record itself: this digest series has published 30 consecutive zero-item days since 10 July, and today's scan found at least two real, free, in-scope items that were missed during that run - SIRA's 14 August Chief Executive announcement and the Personal Injury Commission's 24 July report of record dispute filings (more than 21,400 applications in 2025-26, its highest). Those are not carried as dated items here because they fall outside the window, but they indicate the empty run reflects under-scoped source scanning rather than an unusually quiet scheme, and the earlier postures asserting that no newer regulator release had appeared were incorrect. A recommended fix is to scan the SIRA and PIC news index pages directly each run rather than relying on keyword search, which surfaces evergreen reform explainers ahead of dated releases.",
+  "counts": { "act": 0, "watch": 1, "inform": 0 },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "SIRA names Megan Main as Chief Executive, to start 12 October",
+          "summary": "SIRA announced that Megan Main will take over as Chief Executive of the regulator, commencing 12 October 2026. She has just finished a five-year term leading New Zealand's Accident Compensation Corporation, the country's universal no-fault injury scheme, a period the regulator credits with sustained gains in rehabilitation rates and scheme financial performance, and she earlier helped run New Zealand's managed isolation and quarantine system.",
+          "so_what": "The anchor NSW regulator changes hands while the 2026 reform package is still bedding in, and the incoming Chief Executive starts within days of the 1 October 'reasonable and necessary' treatment test taking effect - so her rehabilitation-and-return-to-work track record from a no-fault scheme is a reasonable indicator of where SIRA's supervisory emphasis may settle across workers compensation, CTP and home building compensation. Worth watching for early signals on treatment-approval scrutiny, insurer supervision intensity and the psychological-injury claims pathway rather than any immediate change in obligations.",
+          "tags": ["NSW", "Regulator leadership", "Scheme governance"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/news/new-sira-chief-executive-megan-main",
+          "published": "2026-08-14",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

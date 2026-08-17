@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-17",
+      "file": "data/digests/2026-08-17.json",
+      "posture": "One carried signal, and a correction to the record. SIRA announced a new Chief Executive on 14 August 2026 - Megan Main, most recently head of New Zealand's Accident Compensation Corporation - to commence 12 October 2026. That release was published on the SIRA news channel three days ago but was not captured in either the 15 or 16 August digests, both of which stated that no newer SIRA release had surfaced; it is carried here as a catch-up because it falls inside the three-day de-duplication window and has not previously been recorded. Nothing new cleared the free sources in the true last-24-hours window (16-17 August, a Sunday into Monday): SIRA's most recent item remains the 14 August appointment, the Personal Injury Commission's most recent item remains PIC News No. 101 of 10 August, and no fresh icare, Industrial Relations Commission, SafeWork NSW or IRO release appeared. No interstate or national item cleared the jurisdiction-weighting bar. Separately, the run of 30 consecutive empty digests since 10 July should be treated as a scanning-reliability question rather than a settled reading of a quiet scheme - see the summary.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-08-16",
       "file": "data/digests/2026-08-16.json",
       "posture": "An empty day, and a Sunday: no fresh, non-duplicative in-scope signal cleared the free sources in the past 24 hours. NSW is now in week eight of the reformed regime, and every result restated the commencement-day settings already documented across the 28 June - 15 August digests - the revised Workers Compensation Guidelines 2026, the frozen 1.99% Nominal Insurer target collection rate held to 30 June 2028, the tighter psychological-injury 'relevant event' test, the staged 25% WPI thresholds, the 130-week weekly-payments cap, the fixed employer excess on new and renewed policies, and the section 26A enforceable psychosocial codes of practice. No newer SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release surfaced. SafeWork NSW's psychosocial inspection uplift (51 additional inspectors, 20 psychosocial-dedicated, backed by $127.7m) and its August inspection activity trace to the March 2026 announcement and remain documented context rather than a last-24-hours development. The Industrial Relations Commission's new 'relevant conduct' gateway (42-day liability window, provisional payments during assessment) is understood to be handling early matters, but no published, citable determination has appeared. The 'reasonable and necessary' Guideline update remains flagged by SIRA for October 2026 and is not yet published. No interstate or national item cleared the jurisdiction-weighting bar.",
