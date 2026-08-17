@@ -6,16 +6,6 @@
   },
   "digests": [
     {
-      "date": "2026-08-18",
-      "file": "data/digests/2026-08-18.json",
-      "posture": "The signal today is national, not NSW. The Fair Work Commission's Interim On-Demand Delivery Employee-like Worker Minimum Standards Order took effect yesterday, 17 August 2026, and for the first time places a legally enforceable, platform-funded personal accident insurance obligation on every on-demand delivery platform operating in Australia - roughly 250,000 workers who sit outside every state workers compensation scheme. The obligation is mandatory and disputable before the Commission, but the Commission has not defined what level of cover satisfies it, so the compliance standard is enforceable before it is specified. That is a live underwriting and broking question now, and it sits directly on top of the unresolved policy question of whether gig workers should be brought inside the workers compensation schemes proper. On the NSW side the scan was quiet: no new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release surfaced in the 17-18 August window. SIRA's most recent item remains the 14 August appointment of Megan Main as Chief Executive, captured in yesterday's digest, and the Personal Injury Commission's most recent edition remains PIC News No. 101 of 10 August. Following yesterday's correction to the record, this run scanned the trade press and national regulators explicitly rather than relying on NSW reform keywords, which is what surfaced today's items.",
-      "counts": {
-        "act": 1,
-        "watch": 1,
-        "inform": 0
-      }
-    },
-    {
       "date": "2026-08-17",
       "file": "data/digests/2026-08-17.json",
       "posture": "One carried signal, and a correction to the record. SIRA announced a new Chief Executive on 14 August 2026 - Megan Main, most recently head of New Zealand's Accident Compensation Corporation - to commence 12 October 2026. That release was published on the SIRA news channel three days ago but was not captured in either the 15 or 16 August digests, both of which stated that no newer SIRA release had surfaced; it is carried here as a catch-up because it falls inside the three-day de-duplication window and has not previously been recorded. Nothing new cleared the free sources in the true last-24-hours window (16-17 August, a Sunday into Monday): SIRA's most recent item remains the 14 August appointment, the Personal Injury Commission's most recent item remains PIC News No. 101 of 10 August, and no fresh icare, Industrial Relations Commission, SafeWork NSW or IRO release appeared. No interstate or national item cleared the jurisdiction-weighting bar. Separately, the run of 30 consecutive empty digests since 10 July should be treated as a scanning-reliability question rather than a settled reading of a quiet scheme - see the summary.",
