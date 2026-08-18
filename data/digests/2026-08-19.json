@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T06:05:00+10:00",
+  "posture": "The regulator's own channel carried the day's only fresh signal, and it points forward rather than back. SIRA Bulletin Issue 77 was published to the SIRA news channel on 18 August 2026 (the bulletin itself is dated 14 August and the page was updated 18 August), and it does three things worth recording. It confirms that a second tranche of NSW reform lands in October 2026 - new reasonable and necessary provisions for treatment, and changes to commutations - which moves the October date from a flagged intention to a stated regulator work programme. It publishes the 'what we heard' summary and the individual stakeholder submissions from the joint Department of Customer Service and SIRA consultation on the 2026 Workers Compensation Regulation, Guidelines and supporting materials, which is the first time the submission record behind the commencement-day settings has been openly available. And it records a Direction Notice excluding a physiotherapy provider and his practice from the workers compensation and motor accident schemes indefinitely from 14 August. Nothing else cleared the free sources in the 18-19 August window: no new icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release surfaced, the Commission's most recent edition remains PIC News No. 101 of 10 August, and no interstate or national item met the jurisdiction-weighting bar.",
+  "summary": "SIRA Bulletin Issue 77, published 18 August, is the sole in-window item and carries three separable signals: confirmation of an October 2026 reform tranche covering reasonable and necessary treatment and commutations; publication of the consultation outcomes report and stakeholder submissions behind the 1 July Regulation and Guidelines; and an indefinite Direction Notice excluding a physiotherapy provider from both personal injury schemes. The October tranche is the item with forward risk attached - it reaches treatment approval decisions and the economics of settling claims, and insurers have roughly six weeks to prepare. The scan found no fresh interstate or national development materially significant enough to include, and no AFR or SMH headline in the window bearing on the scheme.",
+  "counts": {
+    "act": 0,
+    "watch": 2,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "SIRA confirms an October 2026 reform tranche covering treatment approvals and commutations",
+          "summary": "In its Bulletin published 18 August, SIRA states it is preparing for further reform changes taking effect in October 2026, specifically new reasonable and necessary provisions for treatment and changes to commutations. Earlier digests recorded the reasonable and necessary Guideline as flagged for October but not yet published; this is the first time the regulator has paired it with commutations as a single October package.",
+          "so_what": "Two of the levers with the largest bearing on claim cost are moving at once and on a date now stated by the regulator: what treatment an insurer must fund, and on what terms a claim can be settled and closed. Insurers and claims service providers have roughly six weeks to align decision templates, delegations and reserving assumptions, and the instruments themselves are not yet published, so the preparation window is shorter than the calendar suggests.",
+          "tags": ["NSW", "Reform implementation", "Treatment", "Commutations"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/news/sira-bulletin-issue-77",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Consultation record behind the 1 July Regulation and Guidelines is now public",
+          "summary": "SIRA has released a summary report and the individual stakeholder submissions from the consultation on the 2026 Workers Compensation Regulation, Guidelines and supporting materials, run jointly with the Department of Customer Service. The consultation informed the recommendations that produced the final commencement-day position.",
+          "so_what": "This is the documentary trail explaining why the commencement-day settings landed where they did, and it is the material stakeholders will draw on when arguing the October instruments. Worth reading now for early sight of which positions were pressed and not adopted, since those are the arguments most likely to resurface in the next tranche and in early disputes.",
+          "tags": ["NSW", "Consultation", "Guidelines"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/resources-library/workers-compensation-resources/publications/workers-compensation-policies/workers-compensation-reform-consultation-submissions",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Physiotherapy provider excluded indefinitely from the workers compensation and motor accident schemes",
+          "summary": "SIRA issued a Direction Notice on 6 August 2026 to a physiotherapist and his practice, directing that they must not provide physiotherapy, related services or administrative services for the purposes of the workers compensation and motor accident legislation. The direction took effect on 14 August 2026 and remains in force indefinitely.",
+          "so_what": "The exclusion is operative now, so any insurer or claims service provider with treatment plans or open invoices routed through that provider needs to identify affected claims, stop payment and arrange continuity of care for those workers. The narrower point is directional: SIRA has continued to use provider-level exclusion rather than negotiated remediation, which raises the practical compliance cost of weak provider vetting.",
+          "tags": ["NSW", "Health provider regulation", "Regulatory action"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/resources-library/regulation-and-fraud/regulation-of-health-and-related-services-providers/register-of-directed-service-providers",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
