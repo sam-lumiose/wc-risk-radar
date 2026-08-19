@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T05:42:04+10:00",
+  "posture": "Two fresh signals, and the more consequential one is a number rather than an announcement. Trade coverage published on 19 August 2026 pulled SIRA's own Return to Work Roadmap 2026-28 data into public view alongside the incoming Chief Executive's appointment: the NSW 13-week return-to-work rate has fallen from 88% in 2016-17 to 79% in 2024-25, its weakest in nine years, which the roadmap frames as roughly 45,680 more people still off work at the 13-week mark than earlier performance would predict, and SIRA's analysis found fewer than a quarter of insurers are effectively assessing delayed-recovery risk. With the Nominal Insurer target collection rate frozen at 1.99% to 30 June 2028 and industry classification rates held for 2026-27, claims performance is now the only lever left moving employer cost outcomes, so an insurer capability gap of that size is a pricing problem as much as a service one. The same coverage notes the NSW Chief Psychiatrist's review of the Psychiatric Impairment Rating Scale must report to Parliament within 18 months, which is a live reserving question for psychological-injury portfolios. Separately, SafeWork NSW recorded a $390,000 penalty against Fitzmoore Group in the Industrial Court of NSW on 19 August over a 2023 fall through a skylight void. Nothing newer cleared SIRA, icare, the Personal Injury Commission, the Industrial Relations Commission or the IRO in the 19-20 August window - SIRA's most recent item remains Bulletin Issue 77 of 18 August and the Commission's remains PIC News No. 101 of 10 August - and no interstate or national item met the jurisdiction-weighting bar.",
+  "summary": "The day's substantive signal is SIRA's own return-to-work data, surfaced in trade coverage of Megan Main's appointment: a nine-year low in the 13-week return-to-work rate and a finding that fewer than 25% of insurers are effectively assessing delayed-recovery risk. Because scheme-level premium rates are frozen to 30 June 2028, claims and recovery performance is the only remaining driver of employer premium outcomes, and an incoming chief executive whose reference point is the ACC turnaround makes heightened scrutiny of scheme agent performance the reasonable expectation. A SafeWork NSW prosecution outcome is recorded for awareness; no NSW regulator published a new release in the window and no interstate item cleared the weighting bar.",
+  "counts": {
+    "act": 0,
+    "watch": 1,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "SIRA's own data puts the 13-week return-to-work rate at a nine-year low, with most insurers not assessing delayed-recovery risk well",
+          "summary": "Trade coverage of the incoming SIRA Chief Executive's appointment drew on the regulator's Return to Work Roadmap 2026-28, which records the NSW 13-week return-to-work rate falling from 88% in 2016-17 to 79% in 2024-25 - equivalent to roughly 45,680 more people still off work at that mark - and SIRA analysis finding fewer than a quarter of insurers are effectively assessing the risk of delayed recovery. The report also flags that the NSW Chief Psychiatrist's review of the Psychiatric Impairment Rating Scale must report to Parliament within 18 months.",
+          "so_what": "With the Nominal Insurer target collection rate frozen at 1.99% to 30 June 2028 and 2026-27 industry classification rates unchanged, claims and recovery performance is the only variable still moving employer premium outcomes, so a documented insurer capability gap on delayed recovery is a direct pricing and scheme-sustainability exposure. Expect closer scrutiny of scheme agent claims practice under a chief executive whose track record is a rehabilitation-led turnaround, and treat the PIRS review as a potential reserving and assessment-process change for psychological-injury portfolios.",
+          "tags": [
+            "NSW",
+            "Return to work",
+            "Psychological injury",
+            "Insurer conduct"
+          ],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/former-acc-chief-to-lead-nsw-workers-comp-regulator--and-her-track-record-signals-what-is-coming-586640.aspx",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Building and maintenance contractor penalised $390,000 in the Industrial Court over a 2023 fall",
+          "summary": "SafeWork NSW announced on 19 August that Fitzmoore Group Pty Ltd was fined $390,000 in the Industrial Court of NSW after pleading guilty to a work health and safety duty offence, arising from an October 2023 incident in which a worker fell about three metres through a skylight void and was seriously injured. The regulator restated that preventing falls from height is one of its regulatory priorities for the year.",
+          "so_what": "Falls-from-height enforcement at this penalty level reinforces that WHS prosecution exposure sits alongside, and is separate from, workers compensation claim cost for construction and maintenance risks, and is a reasonable prompt to test working-at-heights controls in that segment of an employer portfolio. The matter also adds to the small but growing body of sentencing in the reconstituted Industrial Court of NSW, which is worth tracking for the penalty range it settles on.",
+          "tags": [
+            "NSW",
+            "Prosecution",
+            "Working at heights",
+            "Construction"
+          ],
+          "source": "SafeWork NSW",
+          "url": "https://www.safework.nsw.gov.au/news/safework-media-releases/building-and-maintenance-company-fined-$390,000-after-worker-falls-from-2.8-metre-height",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
