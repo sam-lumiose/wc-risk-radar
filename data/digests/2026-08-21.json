@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T06:05:00+10:00",
+  "posture": "A quiet NSW day, and the only in-window signal is a prudential one. No fresh SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release cleared the free sources in the 20-21 August window. SIRA's news channel still shows Bulletin Issue 77 of 18 August as its most recent item, captured in the 19 August digest; the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August; and the Insurance Business analysis of the Return to Work Roadmap and the Megan Main appointment, published 19 August, was captured yesterday. The one thing that did land in the window is APRA's 2026-27 corporate plan, reported on 20 August, which names frontier AI and AI-enabled cyber threats as a priority requiring urgent strengthening of technology and cyber resilience across all regulated entities. That is not a workers compensation announcement, and it is logged as inform rather than watch, but it reaches the scheme indirectly through the licensed insurers that underwrite workers compensation in WA, Tasmania, the NT and the ACT, and through the claims and data platforms scheme participants everywhere depend on. NSW is now in week eight of the reformed regime with the next tranche due in October, and the settings recorded across the 28 June - 20 August digests are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and the 2026 Market Practice and Premium Guidelines in force, and the 25% WPI threshold applying to primary psychological injury claims notified from 1 July 2026.",
+  "summary": "One item, national, and contextual rather than actionable. APRA published its 2026-27 corporate plan, and the coverage on 20 August drew out two threads relevant to insurer risk: a stated 2026-27 focus on ensuring regulated entities strengthen resilience to AI-enabled cyber threats, with an explicit expectation of better board oversight of technology and cyber risk; and a general insurance affordability and availability problem that the chair described as a structural issue APRA cannot solve alone, citing the March climate vulnerability assessment finding that household underinsurance could move from roughly one in seven to one in four under a plausible stress scenario. Neither point is about workers compensation directly. The read-across is that the privately underwritten schemes - WA, Tasmania, the NT and the ACT - are served by APRA-regulated insurers whose supervisory expectations are set by this plan, and that operational and cyber resilience expectations of this kind tend to flow through to the claims platforms and third-party administrators operating across every scheme, NSW included. On the NSW side the scan was empty: no new regulator, insurer, tribunal or oversight-body release surfaced in the last 24 hours, and no verifiable fresh AFR or SMH public headline on Australian workers compensation was found, so no paywalled items are captured. One housekeeping note for the record: the manifest carries entries for 19 and 20 August but the corresponding digest files are not present in data/digests, so the published archive for those two days may be incomplete. This run did not modify those entries.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": []
+    },
+    {
+      "category": "Claims & Liability",
+      "items": []
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": []
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": []
+    },
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": []
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": []
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": []
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "APRA's new corporate plan puts AI-enabled cyber resilience at the top of the supervisory agenda",
+          "summary": "APRA's 2026-27 corporate plan, reported on 20 August, warns that rapid advances in frontier AI capability could produce more severe disruptions and commits the regulator to pressing regulated entities to strengthen resilience to AI-enabled cyber threats over the coming year, with better board oversight of technology and cyber risk and participation in industry information-sharing. The same plan flags general insurance affordability and availability as remaining under pressure from claims costs and natural hazards; chair John Lonsdale characterised the resulting protection gap as a structural problem for governments, regulators, industry and individuals rather than one APRA can fix on its own, pointing to the March climate vulnerability assessment which found household underinsurance could deteriorate from about one in seven to one in four under a plausible stress scenario.",
+          "so_what": "The direct workers compensation read-across is to the privately underwritten schemes - WA, Tasmania, the NT and the ACT - where cover is written by APRA-regulated insurers whose supervisory expectations for the next four years are set by this plan. The wider one is operational: expectations about board-level technology and cyber oversight typically propagate to the claims platforms, third-party administrators and data pipelines that scheme agents and self-insurers rely on in every jurisdiction, NSW included, so this is worth reading as a signal about where operational resilience scrutiny is heading rather than as a workers compensation development in itself.",
+          "tags": ["National", "APRA", "Operational resilience", "Cyber"],
+          "source": "Insurance News",
+          "url": "https://www.insurancenews.com.au/daily/urgent-action-needed-frontier-ai-threat-ranks-high-on-apra-agenda",
+          "published": "2026-08-20",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
