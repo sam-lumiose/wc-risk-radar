@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-24",
+      "file": "data/digests/2026-08-24.json",
+      "posture": "An empty scan. Nothing published in the 23-24 August window cleared the relevance filter, in NSW or anywhere else. This was a Sunday-into-Monday window, and the NSW channels are all still showing the items the last three digests already captured: SIRA's news channel has not moved past Bulletin Issue 77 of 18 August, the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August, SafeWork NSW's most recent media release remains the $390,000 Industrial Court penalty of 19 August, and no fresh icare, Industrial Relations Commission, IRO or NSW Treasury release surfaced. Interstate, the only two things in circulation were the Tasmanian scheme review, which this digest logged yesterday and which has consultation running to September, and routine operational notices - WorkCover Queensland's 31 August wage declaration deadline and a WorkSafe ACT health and safety representative event - both of which the jurisdiction weighting rule excludes as routine local news. No verifiable fresh AFR or SMH public headline on Australian workers compensation was found, so no paywalled items are captured. NSW is now in week eight of the reformed regime and the scheme settings recorded across the 28 June - 23 August digests are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and the 2026 Market Practice and Premium Guidelines in force, the 25% WPI threshold applying to primary psychological injury claims notified from 1 July 2026, and Megan Main due to take over as SIRA chief executive on 12 October.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-08-23",
       "file": "data/digests/2026-08-23.json",
       "posture": "A quiet NSW weekend, with the only in-window signal being workforce data that points at the psychological-claims trajectory rather than at any regulatory move. No new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release cleared the free sources over the 21-23 August window. SIRA's news channel still shows Bulletin Issue 77 of 18 August as its most recent item, the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August, and SafeWork NSW's most recent media release remains the $390,000 Industrial Court penalty captured on 20 August. The one item published inside the window is trade coverage of Gallagher's 2026 Workforce Trends Report, which carries an Allianz Australia data point of a 17.3% year-on-year rise in primary psychological workers compensation claims between the 2024 and 2025 calendar years - a leading indicator on the exact cost line the NSW reforms were built to bend. This run also picks up the Tasmanian scheme review, which opened on 19 August and was not captured in the 19-21 August digests; there was no digest on 22 August, so the scan window was widened to cover the gap.",
