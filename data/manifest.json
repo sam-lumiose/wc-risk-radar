@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-23",
+      "file": "data/digests/2026-08-23.json",
+      "posture": "A quiet NSW weekend, with the only in-window signal being workforce data that points at the psychological-claims trajectory rather than at any regulatory move. No new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release cleared the free sources over the 21-23 August window. SIRA's news channel still shows Bulletin Issue 77 of 18 August as its most recent item, the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August, and SafeWork NSW's most recent media release remains the $390,000 Industrial Court penalty captured on 20 August. The one item published inside the window is trade coverage of Gallagher's 2026 Workforce Trends Report, which carries an Allianz Australia data point of a 17.3% year-on-year rise in primary psychological workers compensation claims between the 2024 and 2025 calendar years - a leading indicator on the exact cost line the NSW reforms were built to bend. This run also picks up the Tasmanian scheme review, which opened on 19 August and was not captured in the 19-21 August digests; there was no digest on 22 August, so the scan window was widened to cover the gap.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-08-21",
       "file": "data/digests/2026-08-21.json",
       "posture": "A quiet NSW day, and the only in-window signal is a prudential one. No fresh SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release cleared the free sources in the 20-21 August window. SIRA's news channel still shows Bulletin Issue 77 of 18 August as its most recent item, captured in the 19 August digest; the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August; and the Insurance Business analysis of the Return to Work Roadmap and the Megan Main appointment, published 19 August, was captured yesterday. The one thing that did land in the window is APRA's 2026-27 corporate plan, reported on 20 August, which names frontier AI and AI-enabled cyber threats as a priority requiring urgent strengthening of technology and cyber resilience across all regulated entities. That is not a workers compensation announcement, and it is logged as inform rather than watch, but it reaches the scheme indirectly through the licensed insurers that underwrite workers compensation in WA, Tasmania, the NT and the ACT, and through the claims and data platforms scheme participants everywhere depend on. NSW is now in week eight of the reformed regime with the next tranche due in October, and the settings recorded across the 28 June - 20 August digests are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and the 2026 Market Practice and Premium Guidelines in force, and the 25% WPI threshold applying to primary psychological injury claims notified from 1 July 2026.",

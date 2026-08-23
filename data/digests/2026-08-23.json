@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T06:05:00+10:00",
+  "posture": "A quiet NSW weekend, with the only in-window signal being workforce data that points at the psychological-claims trajectory rather than at any regulatory move. No new SIRA, icare, Personal Injury Commission, Industrial Relations Commission, SafeWork NSW or IRO release cleared the free sources over the 21-23 August window. SIRA's news channel still shows Bulletin Issue 77 of 18 August as its most recent item, the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August, and SafeWork NSW's most recent media release remains the $390,000 Industrial Court penalty captured on 20 August. The one item published inside the window is trade coverage of Gallagher's 2026 Workforce Trends Report, which carries an Allianz Australia data point of a 17.3% year-on-year rise in primary psychological workers compensation claims between the 2024 and 2025 calendar years - a leading indicator on the exact cost line the NSW reforms were built to bend. This run also picks up the Tasmanian scheme review, which opened on 19 August and was not captured in the 19-21 August digests; there was no digest on 22 August, so the scan window was widened to cover the gap.",
+  "summary": "Two items, neither of them NSW-originated, and no act-level development. The first is national: Gallagher's fifth annual workforce wellbeing survey reports that 63% of Australian and New Zealand employees are financially unwell, a third hold a second job, and 32% are working while unwell because they cannot afford time off, with burnout described as a lagging indicator that only becomes visible once it surfaces as unplanned leave, a workers compensation claim or a resignation. The insurer-facing part is the Allianz figure sitting alongside it - primary psychological claims up 17.3% year-on-year across 2024 to 2025 - which is a volume signal on the claim type that already drives a disproportionate share of scheme cost and runs materially longer and dearer than physical injury claims. The second is Tasmania: the WorkCover Board has opened a broad independent review of the Workers Rehabilitation and Compensation Scheme, with consultation closing in September, against a state self-insurance pool whose workers compensation payments have more than tripled in a decade and where psychological claims are about 31% of claims at roughly eight times the average cost of a physical claim. Presumptive PTSD cover for first responders has not been ruled out of scope, and the Tasmanian Treasurer has previously said the state would look at what NSW has done on psychological injury eligibility, which makes this the clearest live example of the NSW reform package being used as an interstate template. No verifiable fresh AFR or SMH public headline on Australian workers compensation surfaced in the window, so no paywalled items are captured.",
+  "counts": { "act": 0, "watch": 1, "inform": 1 },
+  "sections": [
+    {
+      "category": "Claims & Liability",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Workforce survey points to more psychological claims, with insurer data already showing a 17.3% annual rise",
+          "summary": "Trade coverage of Gallagher's 2026 Workforce Trends Report, drawn from more than 3,500 respondents across Australia and New Zealand, reports that 63% of employees are financially unwell, about a third are working a second job, 32% work while unwell because they cannot afford time off, and more than a quarter show burnout. The report frames burnout as something employers only see once it converts into unplanned leave, a workers compensation claim or a resignation, and notes psychological injury claims can run up to five times longer and costlier than other claim types. Alongside it sits Allianz Australia research recording a 17.3% year-on-year increase in primary psychological workers compensation claims between the 2024 and 2025 calendar years.",
+          "so_what": "This is a forward indicator on the single cost line that is driving scheme deterioration in NSW and elsewhere: financial stress and presenteeism are upstream of the psychological claims that the 1 July eligibility changes and the 130-week cap were designed to contain, and a 17.3% annual rise in primary psychological claims suggests volume pressure has not yet turned. For risk and underwriting, the read is that employer wellbeing spend is not currently translating into claim frequency relief, so experience-rated employers should expect the psychological component of their claims profile to keep growing through the premium freeze period even though scheme-level rates are held.",
+          "tags": ["National", "Psychological injury", "Claims trends", "Burnout"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/two-in-three-aunz-workers-are-financially-unwell--and-employers-are-absorbing-the-cost-587034.aspx",
+          "published": "2026-08-22",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Tasmania opens a broad scheme review, with first-responder PTSD presumption not ruled out of scope",
+          "summary": "WorkCover Board Tasmania has begun an independent review of the state's Workers Rehabilitation and Compensation Scheme, examining its legislative and policy framework, design, governance, administration and emerging risks, and benchmarking Tasmania against contemporary practice elsewhere in Australia. Draft terms of reference are out for public consultation, closing in September. The backdrop is a state self-insurance pool, the Tasmanian Risk Management Fund, whose workers compensation payments rose from about $32.7 million to $143.4 million between the 2015 and 2024 financial years, with psychological claims making up roughly 31% of claims at more than eight times the average cost of a physical injury claim, and the police, fire and emergency services department's contribution rising from about $2 million in 2018 to $63 million this year. The health minister declined to rule out narrowing or removing the presumptive PTSD cover legislated for first responders in 2019, and unions have argued the answer is prevention rather than reduced entitlements.",
+          "so_what": "Tasmania is the clearest current instance of the NSW reform package functioning as an interstate template - the state Treasurer has said publicly that Tasmania would look at what NSW has done to narrow psychological injury eligibility - so the terms of reference and the September consultation are worth reading as a preview of how the NSW model travels. The presumptive-cover question also has direct national read-across, because first-responder PTSD presumptions exist across several schemes and any Tasmanian move to wind one back would be the first reversal and would be cited immediately in NSW and elsewhere.",
+          "tags": ["TAS", "Scheme review", "Psychological injury", "Presumptive cover"],
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-08-19/review-of-tasmanian-workers-compensation-scheme-underway/107054454",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
