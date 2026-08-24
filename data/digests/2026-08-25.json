@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T06:05:00+10:00",
+  "posture": "A thin scan with one in-window item, and it is national rather than NSW. Nothing fresh cleared the NSW free sources over the 24-25 August window: SIRA's news channel has still not moved past Bulletin Issue 77 of 18 August, the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August, SafeWork NSW's most recent media release remains the $390,000 Industrial Court penalty of 19 August already logged on 20 August, and no new icare, Industrial Relations Commission, IRO or NSW Treasury release surfaced. The single item published inside the window is trade analysis of two psychosocial-risk WHS prosecutions - the Commonwealth Department of Defence and Court Services Victoria - which sets out the evidentiary standard regulators and courts are now applying to employers on psychosocial hazards. Interstate, only routine operational notices were in circulation - WorkCover Queensland's 31 August wage declaration deadline and WorkCover WA broker training - both excluded by the jurisdiction weighting rule, and the Tasmanian scheme review logged on 23 August has not moved, with consultation still running to September. No verifiable fresh AFR or SMH public headline on Australian workers compensation was found, so no paywalled items are captured. NSW is now in week nine of the reformed regime and the scheme settings recorded across the 28 June - 24 August digests are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and the 2026 Market Practice and Premium Guidelines in force, the 25% WPI threshold applying to primary psychological injury claims notified from 1 July 2026, the reasonable-and-necessary treatment test due 1 October 2026, and Megan Main due to take over as SIRA chief executive on 12 October.",
+  "summary": "One item, no act-level development, and no NSW-originated news. The item is trade analysis of two landmark psychosocial-risk prosecutions - Defence fined $188,000 in the NSW Local Court in December 2025 over performance management processes applied without supervisors trained to recognise them as a hazard, and Court Services Victoria fined $379,157 in October 2023 over a toxic culture at the Coroners Court - both of which turned on the same failure: no documented, proactive process for identifying and controlling psychosocial hazards, as distinct from policies and wellbeing programs that existed on paper. The relevance to workers compensation risk is the evidentiary standard rather than the penalty quantum, and it lands as NSW's new relevant-conduct pathway routes disputed bullying, harassment and excessive-work-demands claims through the Industrial Relations Commission, where the same documentary record will be tested. Nothing else in the window cleared the relevance filter in any jurisdiction.",
+  "counts": {
+    "act": 0,
+    "watch": 1,
+    "inform": 0
+  },
+  "sections": [
+    {
+      "category": "Legal & Case Law",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Two psychosocial-risk prosecutions converge on the same test: can the employer show a documented process, not just a policy",
+          "summary": "Trade analysis of two WHS prosecutions five years apart draws out a common evidentiary standard. The Commonwealth Department of Defence was fined $188,000 by the NSW Local Court in December 2025 - reported as the first conviction of a Commonwealth employer under federal WHS law for failing to manage psychosocial risk - after an Air Force technician took his own life in 2020 following six months across four performance management plans, with the court finding supervisors had not been trained to recognise the plans themselves as a psychosocial hazard. Court Services Victoria was fined $379,157 in October 2023 over a toxic culture at the Coroners Court between 2015 and 2018 that contributed to an employee's death and drove others to stress leave, the court finding no adequate steps had been taken to identify or assess the risks accumulating over that period. The analysis identifies the areas regulators test - risk assessments, workload and fatigue management, performance management, organisational change planning, worker consultation, leadership capability, and governance and reporting - and argues the recurring gap is not a missing policy but the absence of evidence that one was applied.",
+          "so_what": "The read-across to NSW is immediate: from 1 July 2026 disputed primary psychological injury claims arising from bullying, harassment or excessive work demands run through a relevant-conduct pathway determined by the Industrial Relations Commission, and the documentary record these prosecutions found decisive - risk assessments that actually address workload and role design, consultation records, evidence of leadership training applied to real decisions - is the same record that will be tested when conduct is contested. The Defence finding that routine performance management can itself constitute a psychosocial hazard is the sharper point for underwriters and injury managers, because it applies to virtually every large employer on the book and sits directly upstream of the claim type driving scheme cost. For risk functions, the practical implication is that psychosocial documentation quality is now a live differentiator in both WHS exposure and workers compensation claim defensibility, and is worth testing at renewal rather than after a claim.",
+          "tags": [
+            "National",
+            "Psychosocial risk",
+            "WHS prosecution",
+            "Psychological injury",
+            "Enforcement"
+          ],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/professional-liability/what-567k-in-fines-reveals-about-what-regulators-are-actually-looking-for-587220.aspx",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
