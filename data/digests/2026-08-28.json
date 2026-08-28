@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T06:05:00+10:00",
+  "posture": "A near-empty scan, and the only qualifying item is a backfill rather than fresh news. No digest ran for 26 or 27 August, so this run widened the window to 26-28 August; nothing published inside it cleared the relevance filter in any jurisdiction. The NSW channels have not moved: SIRA's news page still stops at Bulletin Issue 77 of 18 August, the Personal Injury Commission's latest edition remains PIC News No. 101 of 10 August, and no new icare, Industrial Relations Commission, IRO or NSW Treasury release surfaced. The one item logged today is a correction to the record. SafeWork NSW published a $135,000 Industrial Court penalty against Kens Sand & Cement on 21 August that the 21, 23, 24 and 25 August digests all missed, and the 25 August posture wrongly stated that SafeWork's most recent release was still the $390,000 Fitzmoore penalty of 19 August. That gap is now closed. Interstate, the only movement was WorkSafe Victoria's 26 August solar-sector falls campaign, which the jurisdiction weighting rule excludes as routine operational news with no scheme, premium or precedent consequence, and WorkCover Queensland's 31 August wage declaration deadline, likewise excluded. The Tasmanian scheme review logged on 23 August has not moved and its consultation still runs to September. AFR and SMH could not be checked this run because neither domain is reachable by the search tool, so no paywalled items are captured and none are asserted. NSW is now in week nine of the reformed regime and the scheme settings recorded across the 28 June - 25 August digests are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and the 2026 Market Practice and Premium Guidelines in force, the 25% WPI threshold applying to primary psychological injury claims notified from 1 July 2026, the reasonable-and-necessary treatment test due 1 October 2026, and Megan Main due to take over as SIRA chief executive on 12 October.",
+  "summary": "One item, inform only, and it is a week-old NSW enforcement outcome recovered from a gap in the record rather than anything new. Kens Sand & Cement was fined $135,000 in the Industrial Court of NSW after a truck-mounted crane contacted overhead powerlines at a Dundas construction site in February 2023; the worker was not injured and the company pleaded guilty. Nothing in the 26-28 August window itself cleared the relevance filter. Two notes for the record. First, the window was widened from 24 hours to three days because no digest was produced for 26 or 27 August, so this run also covers those days; no gap now remains open between 25 and 28 August. Second, direct RSS-first retrieval worked for SIRA, SafeWork NSW, the Personal Injury Commission, WorkSafe Victoria, Insurance News and Insurance Business on this run, which raises confidence that the empty result is real rather than an artefact of search coverage; icare's news index and Safe Work Australia's media centre could not be fetched directly and were checked by search only. Nothing here requires a decision from the risk function. The live watch items are unchanged: the 13-week return-to-work rate at a nine-year low, the psychological-claims cost trajectory the reforms were built to bend, and the October reform tranche.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": []
+    },
+    {
+      "category": "Claims & Liability",
+      "items": []
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": []
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": []
+    },
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": []
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": []
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Backfill: sand and cement supplier penalised $135,000 in the Industrial Court after a truck crane struck overhead powerlines",
+          "summary": "SafeWork NSW announced on 21 August that Kens Sand & Cement Pty Ltd was fined $135,000 in the Industrial Court of NSW after pleading guilty to a category 2 style breach of its primary duty to workers under the Work Health and Safety Act. The incident dates to February 2023, when a worker unloading a bag of sand at a Dundas construction site brought the truck-mounted crane into contact with a live low-voltage overhead powerline, pulling it down and damaging the truck cab; nobody was hurt. The regulator's commissioner framed the case around the point that exclusion-distance controls for mobile plant near overhead lines are long settled and well documented. This item is logged now because it was missed when published and the 25 August digest incorrectly recorded the 19 August Fitzmoore penalty as SafeWork's most recent release.",
+          "so_what": "Low direct claims significance, since no worker was injured and no compensation liability followed, but it is a useful marker of what the NSW regulator is still prosecuting to conviction three and a half years after the event, and of the penalty range now attaching to a guilty plea on a well-known physical control failure with a near-miss outcome. For underwriters, the more practical read is the enforcement tail: exposure on a construction or transport risk can crystallise as a court outcome years after the incident and long after the policy period in which it occurred. It also sits against SafeWork's stated priority list of falls, psychosocial harm, hazardous substances and plant, confirming that plant enforcement has not been displaced by the psychosocial push.",
+          "tags": [
+            "NSW",
+            "Prosecution",
+            "Plant and machinery",
+            "Construction",
+            "Enforcement"
+          ],
+          "source": "SafeWork NSW",
+          "url": "https://www.safework.nsw.gov.au/news/safework-media-releases/cement-company-fined-$135,000-following-crane-incident-at-a-construction-site",
+          "published": "2026-08-21",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": []
+    }
+  ]
+}
