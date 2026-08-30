@@ -1,37 +1,76 @@
 {
   "date": "2026-08-30",
   "generated_at": "2026-08-30T20:15:00+10:00",
-  "posture": "The quiet run of empty scans breaks: SIRA has taken formal regulatory action against a major NSW self-insurer, and it is the most consequential item this digest has logged since the reform commencement. On 27 August SIRA issued a Letter of Censure to Aldi Stores under section 183A(1)(b) of the Workers Compensation Act 1987 for contravening licence condition 4.1 of its self-insurer licence, following an independent audit in May 2026 that found continuing problems in areas already under remediation. Aldi has been under enhanced supervision since 2023, when SIRA imposed special conditions on the same licence, so this is an escalation on a file the regulator has been carrying for three years, and SIRA has flagged that failure to demonstrate substantial and sustained compliance may draw further action. The 28 August digest reported that SIRA's news channel had not moved past Bulletin Issue 77 of 18 August; that was wrong, and the censure is captured here. SafeWork NSW also published a $800,000 District Court conviction on the afternoon of 28 August, after that digest was generated, against a container handling operator over a 2022 fatality involving a reversing reach stacker - the largest penalty this digest has recorded and one secured after a defended hearing on the section 19(2) duty owed to persons other than workers. Nothing else in the window cleared the filter. icare, the Personal Injury Commission (still at PIC News No. 101 of 10 August), the Industrial Relations Commission, IRO and NSW Treasury are all unmoved. Interstate, WorkSafe Victoria's news channel has not published since its 26 August solar falls campaign, which the jurisdiction weighting rule excludes as routine, and no WorkCover Queensland, ReturnToWorkSA, WorkCover WA, Tasmanian, ACT, NT, Comcare, Safe Work Australia or APRA item qualified. The Tasmanian scheme review logged on 23 August has not moved, with consultation still running to September. AFR and SMH could not be checked this run because neither domain is reachable by the search tool, so no paywalled items are captured and none are asserted. NSW is now in week ten of the reformed regime and the scheme settings recorded across the 28 June - 28 August digests are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and the 2026 Market Practice and Premium Guidelines in force, the 25% WPI threshold applying to primary psychological injury claims notified from 1 July 2026, the reasonable-and-necessary treatment test due 1 October 2026, and Megan Main due to take over as SIRA chief executive on 12 October.",
-  "summary": "Two NSW items, one of them act-level. SIRA censured Aldi Stores over self-insurer claims and injury management performance, escalating a supervision file that has been open since 2023 and putting every NSW self-insurer on notice that audit findings left unremediated now attract published regulatory action rather than further private oversight. Separately, SafeWork NSW secured a $800,000 conviction in the District Court against a container services operator after a pedestrian was fatally struck by a reversing reach stacker in 2022, the largest penalty logged in this digest and a reminder that mobile plant remains a stated SafeWork regulatory priority. No interstate, national or Commonwealth development cleared the weighting rule, and no paywalled source could be checked.",
-  "counts": {
-    "act": 1,
-    "watch": 0,
-    "inform": 1
-  },
+  "posture": "The quietest stretch of the reform rollout has broken, and it has broken on conduct rather than scheme design. SIRA issued a Letter of Censure to Aldi on 27 August under section 183A(1)(b) of the Workers Compensation Act 1987 for failing to meet claims and injury management standards under its self-insurer licence, after an independent audit in May 2026 found problems still open in areas that had been under remediation and enhanced supervision since 2023. That is the first named self-insurer censure this digest has recorded under the reformed regime, and SIRA has said explicitly that continued non-compliance may attract further regulatory action. It also closes a gap: the item was published on 27 August and the 28 August digest wrongly reported that SIRA's news channel had not moved past Bulletin Issue 77 of 18 August. Two days later the ABC published a multi-jurisdiction investigation into Gallagher Bassett, carrying allegations from injured workers in the NT, NSW and Victorian schemes about delayed treatment approvals and cut payments, and citing WorkSafe Victoria's 2024-25 agent scorecard placing the firm last on six-month return to work at 66.6%. Read together the two items point the same way: claims-handling performance, not premium or benefit design, is where scheme scrutiny is now landing. Elsewhere in NSW, SafeWork secured an $800,000 District Court penalty on 28 August over a 2022 reach stacker fatality, and the IRO relaunched its website on 27 August alongside an ILARS funding e-learning module and its 2025-26 annual performance review. APRA's June-quarter general insurance statistics landed on 27 August. AFR, SMH and Guardian Australia could not be checked this run because none of those domains is reachable by the search tool, so no paywalled items are captured and none are asserted. Interstate movement was routine only. NSW is now in week nine of the reformed regime and the scheme settings recorded since 28 June are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and 2026 Market Practice and Premium Guidelines in force, the 25% WPI threshold on primary psychological injury claims notified from 1 July 2026, the reasonable-and-necessary treatment test due 1 October 2026, and Megan Main due to take over as SIRA chief executive on 12 October.",
+  "summary": "SIRA publicly censured Aldi's NSW self-insurer licence for sustained claims management failures, the first named self-insurer censure logged under the reformed regime and an explicit warning that further regulatory action is available. Two days later the ABC ran a multi-jurisdiction investigation into Gallagher Bassett's claims handling across the NT, NSW and Victorian schemes, naming WorkSafe Victoria's own scorecard as evidence. Supporting items: an $800,000 SafeWork NSW fatality penalty, the IRO's website and ILARS funding relaunch with its 2025-26 performance review, and APRA's June-quarter general insurance statistics.",
+  "counts": { "act": 1, "watch": 1, "inform": 3 },
   "sections": [
     {
       "category": "Compliance, Fraud & Conduct",
       "items": [
         {
           "severity": "act",
-          "headline": "SIRA censures a major supermarket self-insurer after a May audit found remediation had not held",
-          "summary": "SIRA issued a Letter of Censure to Aldi Stores on 27 August under section 183A(1)(b) of the Workers Compensation Act 1987, finding it had breached licence condition 4.1 by not demonstrating claims and injury management performance to an acceptable standard. Aldi has been under enhanced regulatory oversight since 2023 over recurring claims management and compliance concerns, and an independent audit in May 2026 found problems persisting in areas that had already been through remediation.",
-          "so_what": "This is the regulator moving from private supervision to a published sanction on a long-running file, and SIRA has expressly left the door open to further action if compliance is not substantial and sustained - which for a self-insurer means the licence itself. Every NSW self-insurer and group self-insurer should be reading its own outstanding audit findings against this standard now, because the evidentiary test SIRA applied was whether remediation actually fixed the deficiency, not whether a remediation program existed.",
-          "tags": ["NSW", "Self-insurer", "Licensing", "Regulatory action", "Claims management"],
+          "headline": "SIRA censures Aldi's NSW self-insurer licence after an audit found remediation issues still unresolved",
+          "summary": "SIRA issued a Letter of Censure to Aldi Stores on 27 August under section 183A(1)(b) of the Workers Compensation Act 1987, finding it had contravened licence condition 4.1 by failing to manage claims and injury management to an acceptable standard. Aldi has been under enhanced regulatory oversight since 2023, and an independent audit in May 2026 found problems still open in areas already subject to remediation.",
+          "so_what": "This is the first named self-insurer censure this digest has recorded under the reformed regime, and SIRA has said further action is available if compliance is not substantial and sustained. Self-insurers and claims service providers should read it as the regulator's current tolerance setting on claims handling performance and test their own audit findings against it now.",
+          "tags": ["NSW", "Self-insurer", "Regulatory action", "Claims management"],
           "source": "SIRA NSW",
           "url": "https://www.sira.nsw.gov.au/news/sira-issues-letter-of-censure-to-aldi-stores-ltd",
           "published": "2026-08-27",
           "paywall": false
         },
         {
+          "severity": "watch",
+          "headline": "ABC investigation gathers injured-worker allegations against Gallagher Bassett across three schemes",
+          "summary": "The ABC reported allegations from injured workers and their lawyers that Gallagher Bassett delayed treatment approvals, reduced payments and declined to negotiate settlements, drawing on cases in the Northern Territory and referencing the firm's role managing claims for NT, NSW and Victorian public sector workers. The report cites WorkSafe Victoria's 2024-25 agent scorecard, which placed Gallagher Bassett last among Victorian agents on return to work within six months at 66.6%.",
+          "so_what": "A claims service provider operating inside the NSW scheme is now carrying a national reputational story with a regulator's own performance metric attached, which raises the prospect of political and regulatory attention on agent conduct rather than benefit design. Risk functions should expect scrutiny of claims service provider oversight and escalation pathways, and should be able to evidence how agent performance is monitored.",
+          "tags": ["National", "Claims service provider", "Conduct", "Return to work"],
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-08-29/gallagher-bassett-workers-compensation-firm-injured-workers/107077194",
+          "published": "2026-08-29",
+          "paywall": false
+        },
+        {
           "severity": "inform",
-          "headline": "Container handling operator convicted and fined $800,000 over a 2022 death involving a reversing reach stacker",
-          "summary": "SafeWork NSW obtained a conviction and an $800,000 penalty in the District Court against ANJ Container Services and Bond Stores after a defended hearing, arising from an April 2022 incident in which a pedestrian was fatally struck by a reversing reach stacker. The offence was under section 32 of the Work Health and Safety Act 2011 for failing to discharge the duty owed under section 19(2) to persons other than workers, and the company retains appeal rights.",
-          "so_what": "The penalty is the largest this digest has logged and it followed a contested hearing rather than a plea, which shifts the expected cost of defending a mobile plant fatality prosecution in NSW. The section 19(2) framing also matters for liability exposure, since the duty run was to a non-worker on site, and SafeWork has again named mobile plant and machinery as a regulatory priority.",
-          "tags": ["NSW", "Prosecution", "Mobile plant", "Fatality", "Enforcement"],
+          "headline": "District Court fines container operator $800,000 over a 2022 fatality involving a reversing reach stacker",
+          "summary": "SafeWork NSW announced on 28 August that a container services business was convicted and fined $800,000 in the NSW District Court after a defended hearing, over an April 2022 incident in which a pedestrian was fatally struck by a reversing reach stacker. The prosecution proceeded under the work health and safety duty owed to persons other than workers, and the company retains appeal rights.",
+          "so_what": "The penalty is at the upper end of recent NSW outcomes and reinforces mobile plant as a stated SafeWork enforcement priority, which matters for premium-relevant exposure in logistics, warehousing and ports. Employers with pedestrian and mobile plant interaction should treat traffic management controls as an area regulators are actively testing in court.",
+          "tags": ["NSW", "Prosecution", "Mobile plant", "WHS"],
           "source": "SafeWork NSW",
           "url": "https://www.safework.nsw.gov.au/news/safework-media-releases/company-fined-$800,000-after-workplace-fatality-due-to-mobile-plant-incident",
           "published": "2026-08-28",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "IRO relaunches its website and publishes an ILARS funding module alongside its 2025-26 performance review",
+          "summary": "The Independent Review Office issued an alert on 27 August announcing a redesigned website with changed URLs, a new e-learning module for approved lawyers on navigating the ILARS funding guidelines, and the release of its annual performance review for July 2025 to June 2026. The module covers the ILARS Amending Instrument and the revised funding criteria that commenced on 1 July 2026, and an approved lawyer webinar is scheduled for 10 September.",
+          "so_what": "The revised ILARS funding criteria shape which disputes get legally funded and therefore how dispute volumes move under the reformed regime, so the training push is a signal worth tracking rather than housekeeping. Anyone with bookmarked IRO references should also expect link breakage, and the annual review is the year's main published dataset on worker complaints about insurer conduct.",
+          "tags": ["NSW", "ILARS", "Disputes", "Insurer conduct"],
+          "source": "Independent Review Office (IRO) NSW",
+          "url": "https://www.iro.nsw.gov.au/iro-alert/2026/08/27/new-iro-website-and-ilars-e-learning-module-now-live/",
+          "published": "2026-08-27",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "APRA publishes June-quarter general insurance statistics, with employers' liability visible in the class breakdowns",
+          "summary": "APRA released its quarterly general insurance performance statistics on 27 August, covering the June 2026 quarter and reporting a modest year-on-year fall in industry after-tax profit from continuing operations. The publication includes class of business and state level detail, which is where APRA-regulated employers' liability and workers compensation business shows up.",
+          "so_what": "This is the periodic read on capital and class performance for the privately underwritten schemes in WA, Tasmania, the ACT and the Northern Territory, and for licensed insurers writing employers' liability nationally. It is scheduled data rather than an event, so treat it as the baseline against which any later solvency or pricing signal is judged; the next release is due in November.",
+          "tags": ["National", "APRA", "Capital", "Insurer results"],
+          "source": "APRA",
+          "url": "https://www.apra.gov.au/news-and-publications/quarterly-general-insurance-performance-statistics",
+          "published": "2026-08-27",
           "paywall": false
         }
       ]
