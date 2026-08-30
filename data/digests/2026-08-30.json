@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T20:15:00+10:00",
+  "posture": "The quiet run of empty scans breaks: SIRA has taken formal regulatory action against a major NSW self-insurer, and it is the most consequential item this digest has logged since the reform commencement. On 27 August SIRA issued a Letter of Censure to Aldi Stores under section 183A(1)(b) of the Workers Compensation Act 1987 for contravening licence condition 4.1 of its self-insurer licence, following an independent audit in May 2026 that found continuing problems in areas already under remediation. Aldi has been under enhanced supervision since 2023, when SIRA imposed special conditions on the same licence, so this is an escalation on a file the regulator has been carrying for three years, and SIRA has flagged that failure to demonstrate substantial and sustained compliance may draw further action. The 28 August digest reported that SIRA's news channel had not moved past Bulletin Issue 77 of 18 August; that was wrong, and the censure is captured here. SafeWork NSW also published a $800,000 District Court conviction on the afternoon of 28 August, after that digest was generated, against a container handling operator over a 2022 fatality involving a reversing reach stacker - the largest penalty this digest has recorded and one secured after a defended hearing on the section 19(2) duty owed to persons other than workers. Nothing else in the window cleared the filter. icare, the Personal Injury Commission (still at PIC News No. 101 of 10 August), the Industrial Relations Commission, IRO and NSW Treasury are all unmoved. Interstate, WorkSafe Victoria's news channel has not published since its 26 August solar falls campaign, which the jurisdiction weighting rule excludes as routine, and no WorkCover Queensland, ReturnToWorkSA, WorkCover WA, Tasmanian, ACT, NT, Comcare, Safe Work Australia or APRA item qualified. The Tasmanian scheme review logged on 23 August has not moved, with consultation still running to September. AFR and SMH could not be checked this run because neither domain is reachable by the search tool, so no paywalled items are captured and none are asserted. NSW is now in week ten of the reformed regime and the scheme settings recorded across the 28 June - 28 August digests are unchanged: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the revised Workers Compensation Guidelines 2026 and the 2026 Market Practice and Premium Guidelines in force, the 25% WPI threshold applying to primary psychological injury claims notified from 1 July 2026, the reasonable-and-necessary treatment test due 1 October 2026, and Megan Main due to take over as SIRA chief executive on 12 October.",
+  "summary": "Two NSW items, one of them act-level. SIRA censured Aldi Stores over self-insurer claims and injury management performance, escalating a supervision file that has been open since 2023 and putting every NSW self-insurer on notice that audit findings left unremediated now attract published regulatory action rather than further private oversight. Separately, SafeWork NSW secured a $800,000 conviction in the District Court against a container services operator after a pedestrian was fatally struck by a reversing reach stacker in 2022, the largest penalty logged in this digest and a reminder that mobile plant remains a stated SafeWork regulatory priority. No interstate, national or Commonwealth development cleared the weighting rule, and no paywalled source could be checked.",
+  "counts": {
+    "act": 1,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "SIRA censures a major supermarket self-insurer after a May audit found remediation had not held",
+          "summary": "SIRA issued a Letter of Censure to Aldi Stores on 27 August under section 183A(1)(b) of the Workers Compensation Act 1987, finding it had breached licence condition 4.1 by not demonstrating claims and injury management performance to an acceptable standard. Aldi has been under enhanced regulatory oversight since 2023 over recurring claims management and compliance concerns, and an independent audit in May 2026 found problems persisting in areas that had already been through remediation.",
+          "so_what": "This is the regulator moving from private supervision to a published sanction on a long-running file, and SIRA has expressly left the door open to further action if compliance is not substantial and sustained - which for a self-insurer means the licence itself. Every NSW self-insurer and group self-insurer should be reading its own outstanding audit findings against this standard now, because the evidentiary test SIRA applied was whether remediation actually fixed the deficiency, not whether a remediation program existed.",
+          "tags": ["NSW", "Self-insurer", "Licensing", "Regulatory action", "Claims management"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/news/sira-issues-letter-of-censure-to-aldi-stores-ltd",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Container handling operator convicted and fined $800,000 over a 2022 death involving a reversing reach stacker",
+          "summary": "SafeWork NSW obtained a conviction and an $800,000 penalty in the District Court against ANJ Container Services and Bond Stores after a defended hearing, arising from an April 2022 incident in which a pedestrian was fatally struck by a reversing reach stacker. The offence was under section 32 of the Work Health and Safety Act 2011 for failing to discharge the duty owed under section 19(2) to persons other than workers, and the company retains appeal rights.",
+          "so_what": "The penalty is the largest this digest has logged and it followed a contested hearing rather than a plea, which shifts the expected cost of defending a mobile plant fatality prosecution in NSW. The section 19(2) framing also matters for liability exposure, since the duty run was to a non-worker on site, and SafeWork has again named mobile plant and machinery as a regulatory priority.",
+          "tags": ["NSW", "Prosecution", "Mobile plant", "Fatality", "Enforcement"],
+          "source": "SafeWork NSW",
+          "url": "https://www.safework.nsw.gov.au/news/safework-media-releases/company-fined-$800,000-after-workplace-fatality-due-to-mobile-plant-incident",
+          "published": "2026-08-28",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
