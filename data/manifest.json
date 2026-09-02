@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-03",
+      "file": "data/digests/2026-09-03.json",
+      "posture": "One NSW item, and it lands squarely on delegation risk: SIRA has now put on the record, twice, that handing claims to an administrator does not hand over the licence obligations that come with them.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-09-02",
       "file": "data/digests/2026-09-02.json",
       "posture": "A quiet NSW scan with the signal sitting at the national layer: enforcement data and claims-provider commentary both point at the pre-claim end of the psychosocial problem, not at scheme design.",

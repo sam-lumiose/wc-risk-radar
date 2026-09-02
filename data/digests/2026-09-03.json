@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T06:17:00+10:00",
+  "posture": "One NSW item, and it lands squarely on delegation risk: SIRA has now put on the record, twice, that handing claims to an administrator does not hand over the licence obligations that come with them.",
+  "summary": "A thin scan with a single qualifying item. No NSW regulator published anything new in the window — SIRA's news page still stops at the 27 August Letter of Censure to Aldi Stores, SafeWork NSW's latest media release remains the $420,000 industrial-gate prosecution of 31 August already carried on 1 September, and nothing fresh surfaced from icare, the Personal Injury Commission, the Industrial Relations Commission, the IRO or any NSW ministerial channel. The one item that cleared the filter is trade analysis published late on 2 September unpacking that Aldi censure and pairing it with a second SIRA audit of the QBE Treasury Managed Fund claims handover, drawing out a common finding about third-party administrator transitions. Interstate and national channels were quiet on workers compensation: Insurance News carried nothing in the category after 1 September, and no WorkSafe Victoria, WorkCover Queensland, ReturnToWorkSA, WorkCover WA, Comcare or Safe Work Australia item met the materiality test. No AFR or SMH workers compensation headline surfaced in the window, so no paywalled items are recorded and none are asserted. Context is unchanged: the reformed NSW regime is in week ten, the 1.99 per cent Nominal Insurer target collection rate is frozen to 30 June 2028, the premium model review opened on 31 August with submissions closing 25 October, and Megan Main is due to take over as SIRA chief executive in October.",
+  "counts": {
+    "act": 0,
+    "watch": 1,
+    "inform": 0
+  },
+  "sections": [
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "SIRA rejects the administrator-transition excuse, putting every self-insurer claims handover on notice",
+          "summary": "Insurance Business Australia analysed SIRA's August censure of Aldi Stores under section 183A(1)(b) of the Workers Compensation Act 1987, reporting that the regulator refused to accept Aldi's argument that its non-conformances arose around a change of third-party administrator, and held instead that using a claims manager does not displace the self-insurer's own licence obligations. The piece sets that alongside a separate SIRA audit of the QBE Treasury Managed Fund claims handover, which found high case-manager turnover and documented handover records on only a small minority of transferred claims, and notes that 37 remediation plans across the workers compensation sector remained open at 31 March 2026.",
+          "so_what": "Two audits of two unrelated entities produced the same conclusion, which turns a one-off censure into a stated regulatory position: outsourcing claims administration transfers the work but not the accountability, and a transition period is treated as a risk the licensee was obliged to manage rather than an excuse. Any NSW self-insurer mid-way through or planning a TPA change should be testing continuity of compliance, case management and data quality now, because a high-risk rating on any single audit component triggers a remediation plan — and Aldi's own September self-audit is the near-term test of how hard SIRA intends to press.",
+          "tags": ["NSW", "Self-insurers", "Claims administration", "SIRA enforcement"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/tpa-transitions-carry-regulatory-risk--and-now-there-is-proof-588319.aspx",
+          "published": "2026-09-02",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
