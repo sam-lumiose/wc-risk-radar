@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-02",
+      "file": "data/digests/2026-09-02.json",
+      "posture": "A quiet NSW scan with the signal sitting at the national layer: enforcement data and claims-provider commentary both point at the pre-claim end of the psychosocial problem, not at scheme design.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 2
+      }
+    },
+    {
       "date": "2026-09-01",
       "file": "data/digests/2026-09-01.json",
       "posture": "The premium conversation reopens: NSW has put the icare nominal insurer pricing model itself on the table, and the design window closes long before the freeze does.",

@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T05:45:00+10:00",
+  "posture": "A quiet NSW scan with the signal sitting at the national layer: enforcement data and claims-provider commentary both point at the pre-claim end of the psychosocial problem, not at scheme design.",
+  "summary": "Nothing new cleared the relevance filter from any NSW channel in the last 24 hours. SIRA's news page still stops at the 27 August Letter of Censure to Aldi Stores, SafeWork NSW's latest media release remains the $800,000 mobile-plant fatality penalty of 28 August, the IRO's latest alert is still the 27 August website and ILARS e-learning relaunch, and no fresh icare, Personal Injury Commission, Industrial Relations Commission or NSW ministerial item on workers compensation surfaced. Yesterday's NSW premium model review remains the live thread and is not repeated here. Two national items published on 1 September do qualify: Safe Work Australia refreshed its WHS prosecutions dashboard with 2024 data showing 317 prosecutions and a further year-on-year rise, and EML's chief executive used a decade-in-Victoria, two-decades-in-South-Australia milestone to argue that the sharpest unmet need now sits before a claim is ever lodged, in psychosocial hazard and workplace conflict management. AFR, SMH and Guardian Australia remain unreachable by the search tool, so no paywalled items are captured and none are asserted. Interstate movement was routine only: WorkSafe Victoria's 1 September item was an asbestos tooling safety alert, and WorkCover WA's impairment guidelines technical review dates from January. NSW is now in week ten of the reformed regime, with the 1.99 per cent Nominal Insurer target collection rate frozen to 30 June 2028, the 25 per cent WPI threshold on primary psychological injury claims notified from 1 July 2026, the reasonable-and-necessary treatment test due around 1 October 2026, and Megan Main due to take over as SIRA chief executive on 12 October.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 2
+  },
+  "sections": [
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Safe Work Australia refreshes its national WHS prosecutions dashboard, with prosecution counts still climbing",
+          "summary": "Safe Work Australia published updated data on its WHS prosecutions dashboard, now covering 2024 and adding an industry filter. On the regulator's own summary of the 2024 figures, 317 prosecutions were recorded in a continued year-on-year rise, construction accounted for roughly 47 per cent of cases with manufacturing next at about 21 per cent, roughly half of cases involved a serious injury and about one in six a fatality, and a financial penalty followed in the large majority of concluded matters.",
+          "so_what": "This is the only national, comparable view of how hard each jurisdiction is actually prosecuting, and a rising count with construction concentration is a leading indicator for employers' liability severity and for the WHS-side pressure that eventually shows up in claims and premium experience. For a NSW risk function it is a benchmark against which SafeWork NSW's own enforcement run rate through August can be read.",
+          "tags": ["National", "Enforcement", "WHS data"],
+          "source": "Safe Work Australia",
+          "url": "https://www.safeworkaustralia.gov.au/media-centre/news/updated-whs-prosecutions-data-now-available",
+          "published": "2026-09-01",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Claims & Liability",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "EML's chief executive argues the real workers compensation gap now sits before a claim is lodged",
+          "summary": "In an interview marking ten years in Victoria and twenty in South Australia, EML Management chief executive Don Ferguson told Insurance Business that the conventional injury-claim-recovery-return sequence is being disrupted at the front end, with psychosocial hazards, mental health conditions and workplace conflict leaving employers exposed before any claim exists. He also pointed to a growing cohort of workers who need support but no longer meet scheme entitlements, and flagged an update to EML's Monash University mental health research due in October. The article is disclosed as produced in partnership with EML Group, so it reads as positioning as much as analysis.",
+          "so_what": "EML is the largest claims service provider in the Nominal Insurer and operates across the Victorian and South Australian schemes, so its read on where risk is migrating is a useful proxy for what agents will push for next. The claim that need is shifting outside scheme boundaries is the natural corollary of NSW's tightened psychological injury thresholds, and employers should expect that displaced cost to reappear as absence, turnover and WHS exposure rather than as compensable claims.",
+          "tags": ["National", "Psychosocial risk", "Claims service provider", "NSW read-across"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/claims/eml-ceo-flags-growing-gap-in-workers-compensation-support-587939.aspx",
+          "published": "2026-09-01",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
