@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T15:47:00+10:00",
+  "posture": "A near-empty scan, and the one item that clears the filter is a catch-up rather than news: the IRO has called Approved Lawyers to a 10 September webinar on the ILARS Amending Instrument, which is the first scheduled moment where the regulator side of the reform will describe how the new funding criteria are actually landing.",
+  "summary": "Nothing published in the 4-5 September window cleared the relevance filter in any jurisdiction. Every NSW channel is static: SIRA's news listing still stops at the 27 August Letter of Censure to Aldi Stores, SafeWork NSW's most recent media release remains the 27 August farm safety training pilot, the Personal Injury Commission's latest edition is still PIC News No. 101 of 10 August, and no fresh icare or NSW ministerial release on workers compensation surfaced. Trade press was equally quiet: Insurance Business Australia's workers compensation section has not moved past the 2 September piece on self-insurer claims handovers already logged on 3 September, and insuranceNEWS.com.au has published nothing since its 3 September bulletin, which ran to the NSW emergency services levy inquiry, reinsurance pricing, a drug-lab landlord dispute and an ASIC cash-settlement podcast. Interstate and national movement was nil, and no WorkSafe Victoria, WorkCover Queensland, ReturnToWorkSA, WorkCover WA, Comcare or Safe Work Australia item met the materiality bar. The single item recorded today is an IRO alert dated 2 September that the previous two runs missed, now that the IRO's rebuilt website is indexed: it announces a 10 September webinar for Approved Lawyers on the ILARS Guidelines Amending Instrument and on early implementation trends. It is logged as inform and flagged as a catch-up, not as movement in the window. No AFR or SMH workers compensation headline surfaced, so no paywalled items are recorded and none are asserted. Live threads carried forward are unchanged: the review of how icare prices Nominal Insurer premiums, logged 1 September as act with submissions closing 25 October, and SIRA's position that self-insurer licence obligations survive a claims handover to an administrator, logged 3 September as watch. Scheme settings are unmoved - the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the 25% WPI threshold on primary psychological injury claims notified from 1 July 2026, and the reasonable-and-necessary treatment test due 1 October.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "IRO calls Approved Lawyers to a 10 September briefing on how the new ILARS funding criteria are working in practice",
+          "summary": "The Independent Review Office has invited Approved Lawyers to a live webinar on Thursday 10 September 2026 covering key trends and early insights from the implementation of the July reforms, practical guidance on operating the ILARS Guidelines Amending Instrument, and further changes to ILARS still to come. The alert was published on 2 September and is recorded here as a catch-up; it did not surface in the 3 or 4 September sweeps, which appears to be an indexing gap following the IRO's website rebuild rather than a change to the item.",
+          "so_what": "This is the first scheduled occasion since 1 July on which the IRO will describe publicly how the new merit test and funding criteria are behaving in live applications, and it has flagged that more ILARS changes are queued behind the Amending Instrument. For anyone modelling NSW psychological-injury dispute volumes, what the IRO says about grant approval and refusal patterns is the leading indicator of how much of the reformed claims population will actually reach the Personal Injury Commission, so the material published around the webinar is worth collecting even though the event itself is routine.",
+          "tags": ["NSW", "ILARS", "Reform implementation", "Dispute funding"],
+          "source": "IRO (Independent Review Office)",
+          "url": "https://www.iro.nsw.gov.au/iro-alert/2026/09/02/iro-webinar-iro-update-and-applying-the-new-amending-instrument-10-september-2026/",
+          "published": "2026-09-02",
+          "paywall": false
+        }
+      ]
+    },
+    { "category": "Claims & Liability", "items": [] },
+    { "category": "Premiums & Pricing", "items": [] },
+    { "category": "Legal & Case Law", "items": [] },
+    { "category": "Scheme Financial Sustainability", "items": [] },
+    { "category": "Health, Return-to-Work & Provider", "items": [] },
+    { "category": "Compliance, Fraud & Conduct", "items": [] },
+    { "category": "Political, Capital & Reinsurance", "items": [] }
+  ]
+}

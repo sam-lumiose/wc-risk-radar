@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-05",
+      "file": "data/digests/2026-09-05.json",
+      "posture": "A near-empty scan, and the one item that clears the filter is a catch-up rather than news: the IRO has called Approved Lawyers to a 10 September webinar on the ILARS Amending Instrument, which is the first scheduled moment where the regulator side of the reform will describe how the new funding criteria are actually landing.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-09-04",
       "file": "data/digests/2026-09-04.json",
       "posture": "An empty scan. Nothing published across 3-4 September cleared the relevance filter in any jurisdiction, and every candidate the sweep surfaced had already been logged in the 1-3 September digests. The NSW channels are static: SIRA's news listing still stops at the 27 August Letter of Censure to Aldi Stores, SafeWork NSW's most recent media release remains the $420,000 industrial-gate penalty of 31 August, the IRO's latest alert remains the 27 August website and ILARS e-learning relaunch, and the Personal Injury Commission's latest edition is still PIC News No. 101 of 10 August. No fresh icare or NSW ministerial release on workers compensation surfaced. Trade press was equally quiet on this beat: Insurance Business Australia's workers compensation section has not moved past the 2 September piece on self-insurer claims handovers logged yesterday, and insuranceNEWS.com.au's 3 September bulletin ran to the NSW emergency services levy inquiry, reinsurance pricing, a drug-lab landlord dispute and an ASIC cash-settlement podcast, none of which touch workers compensation. Interstate and national movement was nil: Comcare's news page has not been updated since November 2025, WorkCover WA's site shows no dated item after April, and no WorkSafe Victoria, WorkCover Queensland or ReturnToWorkSA item met the materiality bar. One verification note worth recording: a search result asserted a WorkCover WA bulletin dated 3 September on transitional arrangements for permanent impairment assessments under the second edition of the WA impairment Guidelines, but that item could not be confirmed on WorkCover WA's own news or legislative-framework pages, so it is not published here and is flagged for manual check. The live NSW threads carried forward are unchanged and both remain the things most worth watching: the review of how icare prices Nominal Insurer premiums, logged 1 September as act with a consultation window that closes well before the freeze expires, and SIRA's position that self-insurer licence obligations survive a claims handover to an administrator, logged 3 September as watch. Scheme settings recorded since the reform commencement are unmoved: the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, industry classification rates held for 2026-27, the 25% WPI threshold on primary psychological injury claims notified from 1 July 2026, and the reasonable-and-necessary treatment test due 1 October.",
