@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T05:39:00+10:00",
+  "posture": "A quiet Sunday scan with nothing new to report: every NSW, interstate and national channel is unchanged since yesterday, and the reform's live threads are simply waiting on dates already in the diary.",
+  "summary": "Zero items across all eight categories for the 5-6 September window. The NSW regulator channels are static — SIRA's news listing still stops at the 27 August Letter of Censure to Aldi Stores, the IRO's latest alert remains the 27 August website and ILARS e-learning relaunch carrying the 10 September Approved Lawyer webinar already logged on 5 September, and no fresh icare, SafeWork NSW, Personal Injury Commission or NSW ministerial release on workers compensation surfaced. Interstate and national movement was nil at the materiality bar the spec sets, and no AFR or SMH workers compensation headline was returned by the search tool, so nothing paywalled is captured or asserted today.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 0
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": []
+    },
+    {
+      "category": "Claims & Liability",
+      "items": []
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": []
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": []
+    },
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": []
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": []
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": []
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": []
+    }
+  ]
+}
