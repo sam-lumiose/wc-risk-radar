@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-07",
+      "file": "data/digests/2026-09-07.json",
+      "posture": "A third consecutive empty scan to open the week: no NSW, interstate or national channel moved over the weekend, and the only near-term reform milestones are the IRO's Approved Lawyer webinar this Thursday and the 1 October reasonable-and-necessary treatment test, both already in the diary.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-09-06",
       "file": "data/digests/2026-09-06.json",
       "posture": "A quiet Sunday scan with nothing new to report: every NSW, interstate and national channel is unchanged since yesterday, and the reform's live threads are simply waiting on dates already in the diary.",
