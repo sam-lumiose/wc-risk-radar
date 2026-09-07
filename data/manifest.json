@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-08",
+      "file": "data/digests/2026-09-08.json",
+      "posture": "A fourth consecutive empty scan: no NSW, interstate or national channel moved overnight, and the two live threads - the review of how icare prices Nominal Insurer premiums and SIRA's stance on self-insurer claims handovers - are unchanged, with the IRO's Approved Lawyer webinar this Thursday and the 1 October treatment-test change the only near-term milestones.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-09-07",
       "file": "data/digests/2026-09-07.json",
       "posture": "A third consecutive empty scan to open the week: no NSW, interstate or national channel moved over the weekend, and the only near-term reform milestones are the IRO's Approved Lawyer webinar this Thursday and the 1 October reasonable-and-necessary treatment test, both already in the diary.",
