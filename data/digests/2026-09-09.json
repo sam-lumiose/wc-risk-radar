@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T06:55:00+10:00",
+  "posture": "The five-day drought breaks with a single NSW item: SIRA's quarterly regulatory update for the June quarter puts a number on the scheme's fraud caseload - 33 new workers compensation referrals and ten prosecutions still before the courts - while confirming the regulator spent the quarter walking insurers through the 1 July reforms rather than enforcing against them.",
+  "summary": "One item today, all of it NSW and all of it from the regulator. SIRA published its quarterly regulatory update for 1 April to 30 June 2026, which records 33 new workers compensation fraud referrals in the quarter, one prosecution finalised and ten still live, alongside proactive education work that brought roughly 6,300 more NSW employees under a policy. The rest of the register was nil: the IRO's most recent alert remains the notice of tomorrow's Approved Lawyer webinar on the ILARS Amending Instrument, the Personal Injury Commission's news listing has not moved since 30 June, icare's latest workers compensation announcement is still the 2026-27 premium settings confirmation, and SafeWork NSW's newsroom is unchanged. Nothing interstate or national cleared the spec's materiality bar - Safe Work Australia and Comcare were both quiet, and the most recent WorkSafe Victoria, WorkCover Queensland, ReturnToWorkSA and WorkCover WA activity is late-August operational and prosecution news that does not read across to NSW. No AFR or SMH workers compensation headline surfaced in the window, so nothing paywalled is captured today. The two carried-forward threads are unchanged: the review of how icare prices Nominal Insurer premiums, logged 1 September with submissions closing 25 October, and SIRA's position that self-insurer licence obligations survive a claims handover to an administrator, logged 3 September. Scheme settings also hold - the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, 2026-27 industry classification rates unchanged, the higher whole person impairment threshold for primary psychological injury claims notified from 1 July 2026, and the reasonable-and-necessary treatment test due 1 October.",
+  "counts": {
+    "act": 0,
+    "watch": 1,
+    "inform": 0
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": []
+    },
+    {
+      "category": "Claims & Liability",
+      "items": []
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": []
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": []
+    },
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": []
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": []
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "SIRA's June-quarter regulatory update puts 33 new workers compensation fraud referrals and ten live prosecutions on the record",
+          "summary": "SIRA published its quarterly regulatory update for 1 April to 30 June 2026, reporting 33 new fraud referrals in the workers compensation scheme, one prosecution finalised and ten still before the courts. The regulator says the quarter's main effort went into helping insurers stand up the reforms that commenced on 1 July, and that education activity brought around 6,300 additional NSW employees under a workers compensation policy.",
+          "so_what": "The fraud numbers are a running measure of how hard SIRA is prepared to push on scheme integrity, and a quarter that added 33 referrals while ten prosecutions were already on foot signals the enforcement pipeline is filling rather than clearing. The uninsured-worker figure is the more immediate exposure for employers: SIRA is finding coverage gaps through proactive education now, but that same detection capability sits behind its penalty powers once the reform bedding-in period ends.",
+          "tags": ["NSW", "Fraud", "Regulatory activity", "Under-insurance"],
+          "source": "SIRA NSW",
+          "url": "https://www.sira.nsw.gov.au/news/siras-q4-2026-quarterly-regulatory-report-ending-30-june-2026-now-available",
+          "published": "2026-09-08",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": []
+    }
+  ]
+}

@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-09",
+      "file": "data/digests/2026-09-09.json",
+      "posture": "The five-day drought breaks with a single NSW item: SIRA's quarterly regulatory update for the June quarter puts a number on the scheme's fraud caseload - 33 new workers compensation referrals and ten prosecutions still before the courts - while confirming the regulator spent the quarter walking insurers through the 1 July reforms rather than enforcing against them.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-09-08",
       "file": "data/digests/2026-09-08.json",
       "posture": "A fourth consecutive empty scan: no NSW, interstate or national channel moved overnight, and the two live threads - the review of how icare prices Nominal Insurer premiums and SIRA's stance on self-insurer claims handovers - are unchanged, with the IRO's Approved Lawyer webinar this Thursday and the 1 October treatment-test change the only near-term milestones.",
