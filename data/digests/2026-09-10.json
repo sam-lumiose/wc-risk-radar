@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T06:20:00+10:00",
+  "posture": "One NSW item, and it is a capacity signal rather than a rule change: the Minns Government has put a sixth new member into the Industrial Relations Commission since July, saying openly that it expects the bullying, harassment and workers compensation jurisdictions created by the reforms to keep driving the caseload up.",
+  "summary": "A single item today, all of it NSW. The Minister for Industrial Relations announced the appointment of barrister Bronwyn Byrnes as a Commissioner of the NSW Industrial Relations Commission, and the release is explicit that the appointment is about absorbing an anticipated increase in workload from the new bullying and harassment laws and the workers compensation matters flowing from the 1 July reforms. That makes it the sixth member added to the IRC since the 2 July announcement of a Deputy President and four Commissioners, and the government's own framing - that the workload is expected to keep rising - is the part worth logging. The rest of the register was nil. SIRA's news listing has not moved since the June-quarter regulatory update logged yesterday; icare's latest workers compensation announcement is still the 2026-27 premium settings confirmation; the Personal Injury Commission's news listing is unchanged; SafeWork NSW's newsroom is unchanged, with its second half-yearly statutory report covering January to June 2026 still outstanding; and the IRO's most recent alert remains the notice of the Approved Lawyer webinar on the ILARS Amending Instrument, which runs today. Nothing interstate or national cleared the spec's materiality bar: the Queensland statutory review of the Industrial Relations Act and the workers' compensation scheme remains at the same point, with submissions closed on 31 May and the report due in the second half of 2026; WorkCover Queensland's 2026-27 target premium rate hold, WorkSafe Victoria's premium freeze at 1.8 per cent, ReturnToWorkSA's remuneration return deadline of 15 September and WorkCover WA's broker training module are all previously known or routine. Comcare and Safe Work Australia were quiet. No AFR or SMH workers compensation headline surfaced in the window, so nothing paywalled is captured or asserted today. The two carried-forward threads are unchanged: the review of how icare prices Nominal Insurer premiums, logged 1 September with submissions closing 25 October, and SIRA's position that self-insurer licence obligations survive a claims handover to an administrator, logged 3 September. Scheme settings also hold - the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028, 2026-27 industry classification rates unchanged, the higher whole person impairment threshold for primary psychological injury claims notified from 1 July 2026, and the reasonable-and-necessary treatment test due 1 October.",
+  "counts": {
+    "act": 0,
+    "watch": 1,
+    "inform": 0
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": []
+    },
+    {
+      "category": "Claims & Liability",
+      "items": []
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": []
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW adds a sixth new Industrial Relations Commission member since July, citing rising workers compensation and bullying caseload",
+          "summary": "The Minister for Industrial Relations announced the appointment of barrister Bronwyn Byrnes as a Commissioner of the NSW Industrial Relations Commission. The release ties the appointment directly to an expected increase in the Commission's workload from the new bullying and harassment laws and from workers compensation matters arising out of the reforms that commenced on 1 July, and follows the Deputy President and four Commissioners announced on 2 July.",
+          "so_what": "The government is resourcing ahead of demand rather than in response to it, which is a reasonable proxy for how much contested volume it expects the IRC's new workers compensation and workplace-conduct jurisdiction to generate. For insurers and employers that means planning for a dispute pipeline that is being built to grow, with the associated legal-cost and claim-duration exposure on psychological injury matters, and it also removes capacity constraint as a likely reason for early delays in the new jurisdiction.",
+          "tags": ["NSW", "Industrial Relations Commission", "Psychological injury", "Bullying and harassment", "Disputes"],
+          "source": "NSW Government — Minister for Industrial Relations",
+          "url": "https://www.nsw.gov.au/ministerial-releases/new-commissioner-appointed-to-nsw-industrial-relations-commission-to-support-safety-reforms",
+          "published": "2026-09-08",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": []
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": []
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": []
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": []
+    }
+  ]
+}

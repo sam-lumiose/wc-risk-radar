@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-10",
+      "file": "data/digests/2026-09-10.json",
+      "posture": "One NSW item, and it is a capacity signal rather than a rule change: the Minns Government has put a sixth new member into the Industrial Relations Commission since July, saying openly that it expects the bullying, harassment and workers compensation jurisdictions created by the reforms to keep driving the caseload up.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-09-09",
       "file": "data/digests/2026-09-09.json",
       "posture": "The five-day drought breaks with a single NSW item: SIRA's quarterly regulatory update for the June quarter puts a number on the scheme's fraud caseload - 33 new workers compensation referrals and ten prosecutions still before the courts - while confirming the regulator spent the quarter walking insurers through the 1 July reforms rather than enforcing against them.",
