@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-18",
+      "file": "data/digests/2026-09-18.json",
+      "posture": "The strict overnight scan came up empty across every NSW, interstate and national channel, so the window was widened back to the last published digest and it surfaces one un-logged NSW item: SIRA has used its rarely-exercised power to strip a Central Coast physiotherapist and his practice of scheme approval, which means treatment they delivered from 14 August is not recoverable from employers at all.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-09-10",
       "file": "data/digests/2026-09-10.json",
       "posture": "One NSW item, and it is a capacity signal rather than a rule change: the Minns Government has put a sixth new member into the Industrial Relations Commission since July, saying openly that it expects the bullying, harassment and workers compensation jurisdictions created by the reforms to keep driving the caseload up.",

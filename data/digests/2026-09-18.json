@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T06:30:00+10:00",
+  "posture": "The strict overnight scan came up empty across every NSW, interstate and national channel, so the window was widened back to the last published digest and it surfaces one un-logged NSW item: SIRA has used its rarely-exercised power to strip a Central Coast physiotherapist and his practice of scheme approval, which means treatment they delivered from 14 August is not recoverable from employers at all.",
+  "summary": "Nothing in the Australian workers compensation register moved in the 24 hours to this morning. Widening the scan to cover the gap since the last digest on 10 September picks up one item that has not previously been logged: SIRA announced on 15 September that directions have been issued against a Central Coast physiotherapist and his company, removing the SIRA approval that makes their treatment costs recoverable under the workers compensation and motor accident legislation, with effect from 14 August. The regulator has also referred the matter to Ahpra and the HPCA, which has placed conditions on the practitioner. Everything else in the primary NSW register is unchanged: SIRA's news listing still ends at the June-quarter regulatory report of 8 September, icare's latest workers compensation announcement remains the 2026-27 premium settings confirmation, the Personal Injury Commission's newsroom has not moved past its 10 September reform update and PIC News No. 102, and the IRO's most recent alert is still the notice of the 10 September Approved Lawyer webinar on the ILARS Amending Instrument. SafeWork NSW's newsroom was quiet. Nothing interstate or national cleared the spec's materiality bar: WorkCover Queensland's hold of its target average premium rate at $1.343 per $100 of wages for 2026-27 dates from 26 June, WorkSafe Victoria's scheme modernisation settings and the 2027 independent review of its 2024 mental-injury amendments are unchanged, and Comcare, Safe Work Australia and APRA produced nothing in scope. No AFR or SMH workers compensation headline was retrievable in this window, so nothing paywalled is captured or asserted today. The live threads carried forward are unchanged: the review of how icare prices Nominal Insurer premiums, the 1 October commencement of commutations before the Personal Injury Commission President, and the 1 October shift in the treatment test from reasonably necessary to reasonable and necessary. Scheme settings also hold, with the 1.99% Nominal Insurer target collection rate frozen to 30 June 2028 and 2026-27 industry classification rates unchanged.",
+  "counts": {
+    "act": 0,
+    "watch": 1,
+    "inform": 0
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": []
+    },
+    {
+      "category": "Claims & Liability",
+      "items": []
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": []
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": []
+    },
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": []
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": []
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "SIRA bars a Central Coast physiotherapist and his practice from the NSW schemes, making their treatment unrecoverable from 14 August",
+          "summary": "SIRA announced on 15 September that it has issued directions against a Central Coast physiotherapist and his physiotherapy company, removing them from the NSW workers compensation and motor accident schemes with effect from 14 August 2026 and barring the practitioner from any management or operational involvement in a physiotherapy business. Because SIRA approval is what makes a physiotherapist appropriately qualified for the purposes of the treatment-cost provisions in the Workers Compensation Act, anything delivered from that date sits outside the scheme regardless of when it is invoiced. SIRA also referred its concerns to Ahpra and the Health Professionals Council Authority, which has imposed conditions on the practitioner's registration.",
+          "so_what": "Two exposures follow for insurers, scheme agents and employers: invoices already in the pipeline from this practice are not recoverable if the service date falls on or after 14 August, and any injured worker whose treatment was interrupted needs an alternative approved practitioner arranged before the recovery plan slips. The wider signal matters more than the individual case, because SIRA's register of directed providers holds only a handful of entries and the regulator reserves the power for sustained non-compliance, so its use here indicates the health-provider supervision model coming out of the Dawson strategic review is now operating in practice - and checking provider approval status is becoming a live control rather than an assumption.",
+          "tags": ["NSW", "Provider regulation", "Treatment costs", "Regulatory action", "Allied health"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/workers-compensation/sira-action-puts-provider-checks-on-brokers-radar-589938.aspx",
+          "published": "2026-09-16",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": []
+    }
+  ]
+}
