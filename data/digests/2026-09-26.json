@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T01:30:00+10:00",
+  "posture": "A near-empty scan with one national capital-side signal: APRA has committed to a net-neutral regulatory burden for 2026-27, which matters to the privately underwritten workers compensation markets but changes nothing in NSW, where the 1 October reform tranche is now five days out and remains the dominant readiness task.",
+  "summary": "Every NSW channel was quiet in the 24 hours to this morning - SIRA's newsroom still tops out at the 15 September physiotherapist direction, the Personal Injury Commission at its 10 September commutations update, and SafeWork NSW, the Industrial Relations Commission and the Independent Review Office added nothing. Interstate regulators produced nothing meeting the materiality test. The one in-window item is national: APRA's latest instalment of its 'Getting the balance right' agenda, published 24 September and picked up by the trade press, in which the regulator commits to offsetting any new requirements it introduces this financial year. With the 'reasonable and necessary' treatment test and the Commission's commutation approval power both commencing on 1 October, the operative risk this week is implementation readiness rather than anything new on the wire.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Scheme & Regulatory",
+      "items": []
+    },
+    {
+      "category": "Claims & Liability",
+      "items": []
+    },
+    {
+      "category": "Premiums & Pricing",
+      "items": []
+    },
+    {
+      "category": "Legal & Case Law",
+      "items": []
+    },
+    {
+      "category": "Scheme Financial Sustainability",
+      "items": []
+    },
+    {
+      "category": "Health, Return-to-Work & Provider",
+      "items": []
+    },
+    {
+      "category": "Compliance, Fraud & Conduct",
+      "items": []
+    },
+    {
+      "category": "Political, Capital & Reinsurance",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "APRA promises to stop adding to insurers' compliance load, targeting a net-neutral regulatory burden for 2026-27",
+          "summary": "In a 24 September instalment of its APRA Explains series, the prudential regulator set out progress on its 'Getting the balance right' agenda and said its measures for 2026-27 are designed to offset the burden of any new requirements it brings in, aiming for a broadly neutral net impact. It also pointed to already-finalised changes, including July's amendments to the general insurance reinsurance framework - which take effect on 1 January 2027 and let the Appointed Actuary settle the capital treatment of certain reinsurance arrangements - and committed to publishing performance indicators on burden reduction.",
+          "so_what": "The direct workers compensation read-across is limited and second-order: it touches the APRA-regulated insurers that underwrite the privately underwritten schemes in WA, Tasmania, the ACT and the Northern Territory, and the licensed and specialised insurers operating in NSW, rather than the Nominal Insurer or any state scheme design. The signal worth logging is that reinsurance-access flexibility and lower referral friction tend to support capacity and pricing stability in commercial lines, and that a regulator publishing measurable burden-reduction indicators is a template state scheme regulators may face pressure to match.",
+          "tags": ["National", "APRA", "Capital", "Reinsurance"],
+          "source": "Insurance Business Australia",
+          "url": "https://www.insurancebusinessmag.com/au/news/breaking-news/apra-targets-regulatory-burden-as-insurance-compliance-costs-mount-591200.aspx",
+          "published": "2026-09-25",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

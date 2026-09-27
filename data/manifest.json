@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-26",
+      "file": "data/digests/2026-09-26.json",
+      "posture": "A near-empty scan with one national capital-side signal: APRA has committed to a net-neutral regulatory burden for 2026-27, which matters to the privately underwritten workers compensation markets but changes nothing in NSW, where the 1 October reform tranche is now five days out and remains the dominant readiness task.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-09-22",
       "file": "data/digests/2026-09-22.json",
       "posture": "A second consecutive empty scan: nothing new cleared any NSW, interstate or national channel in the 24 hours to this morning, which leaves the 1 October reform tranche - the shift to a reasonable and necessary treatment test and commutations before the Personal Injury Commission President - as the dominant near-term milestone, now nine days out and close enough that insurers and scheme agents should be treating readiness as the live task rather than a planning item.",
